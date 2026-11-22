@@ -1,0 +1,71 @@
+indicator_id,indicator_code,section,sub_section,code_number,indicator_label,indicator_name,footnote_marker,hierarchy_level,parent_code_number,parent_indicator_code,analysis_role,kpi_scope,is_of_which,has_children,display_order
+13,1_ccil_operated_systems_1_1_to_1_3,A. Settlement Systems,Financial Market Infrastructures (FMIs),1,1 CCIL Operated Systems (1.1 to 1.3),CCIL Operated Systems (1.1 to 1.3),,1,,,group,settlement,False,True,1
+6,1_1_govt_securities_clearing_1_1_1_to_1_1_3,A. Settlement Systems,Financial Market Infrastructures (FMIs),1.1,1.1 Govt. Securities Clearing (1.1.1 to 1.1.3),Govt. Securities Clearing (1.1.1 to 1.1.3),,2,1,1_ccil_operated_systems_1_1_to_1_3,instrument,settlement,False,True,2
+1,1_1_1_outright,A. Settlement Systems,Financial Market Infrastructures (FMIs),1.1.1,1.1.1 Outright,Outright,,3,1.1,1_1_govt_securities_clearing_1_1_1_to_1_1_3,sub_instrument,settlement,False,False,3
+2,1_1_2_repo,A. Settlement Systems,Financial Market Infrastructures (FMIs),1.1.2,1.1.2 Repo,Repo,,3,1.1,1_1_govt_securities_clearing_1_1_1_to_1_1_3,sub_instrument,settlement,False,False,4
+3,1_1_3_tri_party_repo,A. Settlement Systems,Financial Market Infrastructures (FMIs),1.1.3,1.1.3 Tri-party Repo,Tri-party Repo,,3,1.1,1_1_govt_securities_clearing_1_1_1_to_1_1_3,sub_instrument,settlement,False,False,5
+9,1_2_forex_clearing,A. Settlement Systems,Financial Market Infrastructures (FMIs),1.2,1.2 Forex Clearing,Forex Clearing,,2,1,1_ccil_operated_systems_1_1_to_1_3,instrument,settlement,False,False,6
+12,1_3_rupee_derivatives,A. Settlement Systems,Financial Market Infrastructures (FMIs),1.3,1.3 Rupee Derivatives @,Rupee Derivatives,@,2,1,1_ccil_operated_systems_1_1_to_1_3,instrument,settlement,False,False,7
+14,1_credit_transfers_rtgs_1_1_to_1_2,B. Payment Systems,I Financial Market Infrastructures (FMIs),1,1 Credit Transfers - RTGS (1.1 to 1.2),Credit Transfers - RTGS (1.1 to 1.2),,1,,,group,payment_system,False,True,8
+5,1_1_customer_transactions,B. Payment Systems,I Financial Market Infrastructures (FMIs),1.1,1.1 Customer Transactions,Customer Transactions,,2,1,1_credit_transfers_rtgs_1_1_to_1_2,instrument,payment_system,False,False,9
+11,1_2_interbank_transactions,B. Payment Systems,I Financial Market Infrastructures (FMIs),1.2,1.2 Interbank Transactions,Interbank Transactions,,2,1,1_credit_transfers_rtgs_1_1_to_1_2,instrument,payment_system,False,False,10
+29,2_credit_transfers_retail_2_1_to_2_7,B. Payment Systems,II Retail,2,2 Credit Transfers - Retail (2.1 to 2.7),Credit Transfers - Retail (2.1 to 2.7),,1,,,group,payment_system,False,True,11
+17,2_1_aeps_fund_transfers,B. Payment Systems,II Retail,2.1,2.1 AePS (Fund Transfers) @,AePS (Fund Transfers),@,2,2,2_credit_transfers_retail_2_1_to_2_7,instrument,payment_system,False,False,12
+20,2_2_apbs,B. Payment Systems,II Retail,2.2,2.2 APBS $,APBS,$,2,2,2_credit_transfers_retail_2_1_to_2_7,instrument,payment_system,False,False,13
+23,2_3_ecs_cr,B. Payment Systems,II Retail,2.3,2.3 ECS Cr,ECS Cr,,2,2,2_credit_transfers_retail_2_1_to_2_7,instrument,payment_system,False,False,14
+24,2_4_imps,B. Payment Systems,II Retail,2.4,2.4 IMPS,IMPS,,2,2,2_credit_transfers_retail_2_1_to_2_7,instrument,payment_system,False,False,15
+25,2_5_nach_cr,B. Payment Systems,II Retail,2.5,2.5 NACH Cr $,NACH Cr,$,2,2,2_credit_transfers_retail_2_1_to_2_7,instrument,payment_system,False,False,16
+26,2_6_neft,B. Payment Systems,II Retail,2.6,2.6 NEFT,NEFT,,2,2,2_credit_transfers_retail_2_1_to_2_7,instrument,payment_system,False,False,17
+28,2_7_upi,B. Payment Systems,II Retail,2.7,2.7 UPI @,UPI,@,2,2,2_credit_transfers_retail_2_1_to_2_7,instrument,payment_system,False,True,18
+27,2_7_1_of_which_ussd,B. Payment Systems,II Retail,2.7.1,2.7.1 of which USSD @,of which USSD,@,3,2.7,2_7_upi,sub_instrument,payment_system,True,False,19
+42,3_debit_transfers_and_direct_debits_3_1_to_3_4,B. Payment Systems,II Retail,3,3 Debit Transfers and Direct Debits (3.1 to 3.4),Debit Transfers and Direct Debits (3.1 to 3.4),,1,,,group,payment_system,False,True,20
+33,3_1_bhim_aadhaar_pay,B. Payment Systems,II Retail,3.1,3.1 BHIM Aadhaar Pay @,BHIM Aadhaar Pay,@,2,3,3_debit_transfers_and_direct_debits_3_1_to_3_4,instrument,payment_system,False,False,21
+35,3_2_ecs_dr,B. Payment Systems,II Retail,3.2,3.2 ECS Dr,ECS Dr,,2,3,3_debit_transfers_and_direct_debits_3_1_to_3_4,instrument,payment_system,False,False,22
+38,3_3_nach_dr,B. Payment Systems,II Retail,3.3,3.3 NACH Dr $,NACH Dr,$,2,3,3_debit_transfers_and_direct_debits_3_1_to_3_4,instrument,payment_system,False,False,23
+40,3_4_netc_linked_to_bank_account,B. Payment Systems,II Retail,3.4,3.4 NETC (linked to bank account) @,NETC (linked to bank account),@,2,3,3_debit_transfers_and_direct_debits_3_1_to_3_4,instrument,payment_system,False,False,24
+52,4_card_payments_4_1_to_4_2,B. Payment Systems,II Retail,4,4 Card Payments (4.1 to 4.2),Card Payments (4.1 to 4.2),,1,,,group,payment_system,False,True,25
+46,4_1_credit_cards_4_1_1_to_4_1_2,B. Payment Systems,II Retail,4.1,4.1 Credit Cards (4.1.1 to 4.1.2),Credit Cards (4.1.1 to 4.1.2),,2,4,4_card_payments_4_1_to_4_2,instrument,payment_system,False,True,26
+44,4_1_1_pos_based,B. Payment Systems,II Retail,4.1.1,4.1.1 PoS based $,PoS based,$,3,4.1,4_1_credit_cards_4_1_1_to_4_1_2,sub_instrument,payment_system,False,False,27
+45,4_1_2_others,B. Payment Systems,II Retail,4.1.2,4.1.2 Others $,Others,$,3,4.1,4_1_credit_cards_4_1_1_to_4_1_2,sub_instrument,payment_system,False,False,28
+50,4_2_debit_cards_4_2_1_to_4_2_1,B. Payment Systems,II Retail,4.2,4.2 Debit Cards (4.2.1 to 4.2.1 ),Debit Cards (4.2.1 to 4.2.1 ),,2,4,4_card_payments_4_1_to_4_2,instrument,payment_system,False,True,29
+48,4_2_1_pos_based,B. Payment Systems,II Retail,4.2.1,4.2.1 PoS based $,PoS based,$,3,4.2,4_2_debit_cards_4_2_1_to_4_2_1,sub_instrument,payment_system,False,False,30
+49,4_2_2_others,B. Payment Systems,II Retail,4.2.2,4.2.2 Others $,Others,$,3,4.2,4_2_debit_cards_4_2_1_to_4_2_1,sub_instrument,payment_system,False,False,31
+62,5_prepaid_payment_instruments_5_1_to_5_2,B. Payment Systems,II Retail,5,5 Prepaid Payment Instruments (5.1 to 5.2),Prepaid Payment Instruments (5.1 to 5.2),,1,,,group,payment_system,False,True,32
+56,5_1_wallets,B. Payment Systems,II Retail,5.1,5.1 Wallets,Wallets,,2,5,5_prepaid_payment_instruments_5_1_to_5_2,instrument,payment_system,False,False,33
+59,5_2_cards_5_2_1_to_5_2_2,B. Payment Systems,II Retail,5.2,5.2 Cards (5.2.1 to 5.2.2),Cards (5.2.1 to 5.2.2),,2,5,5_prepaid_payment_instruments_5_1_to_5_2,instrument,payment_system,False,True,34
+57,5_2_1_pos_based,B. Payment Systems,II Retail,5.2.1,5.2.1 PoS based $,PoS based,$,3,5.2,5_2_cards_5_2_1_to_5_2_2,sub_instrument,payment_system,False,False,35
+58,5_2_2_others,B. Payment Systems,II Retail,5.2.2,5.2.2 Others $,Others,$,3,5.2,5_2_cards_5_2_1_to_5_2_2,sub_instrument,payment_system,False,False,36
+66,6_paper_based_instruments_6_1_to_6_2,B. Payment Systems,II Retail,6,6 Paper-based Instruments (6.1 to 6.2),Paper-based Instruments (6.1 to 6.2),,1,,,group,payment_system,False,True,37
+63,6_1_cts_npci_managed,B. Payment Systems,II Retail,6.1,6.1 CTS (NPCI Managed),CTS (NPCI Managed),,2,6,6_paper_based_instruments_6_1_to_6_2,instrument,payment_system,False,False,38
+64,6_2_others,B. Payment Systems,II Retail,6.2,6.2 Others,Others,,2,6,6_paper_based_instruments_6_1_to_6_2,instrument,payment_system,False,False,39
+70,total_retail_payments_2_3_4_5_6,B. Payment Systems,II Retail,,Total - Retail Payments (2+3+4+5+6),Total - Retail Payments (2+3+4+5+6),,0,,,total,payment_system,False,False,40
+69,total_payments_1_2_3_4_5_6,B. Payment Systems,II Retail,,Total Payments (1+2+3+4+5+6),Total Payments (1+2+3+4+5+6),,0,,,total,payment_system,False,False,41
+68,total_digital_payments_1_2_3_4_5,B. Payment Systems,II Retail,,Total Digital Payments (1+2+3+4+5),Total Digital Payments (1+2+3+4+5),,0,,,total,payment_system,False,False,42
+15,1_mobile_payments_mobile_app_based_1_1_to_1_2,A. Other Payment Channels,(none),1,1 Mobile Payments (mobile app based) (1.1 to 1.2),Mobile Payments (mobile app based) (1.1 to 1.2),,1,,,group,channel_view,False,True,43
+7,1_1_intra_bank,A. Other Payment Channels,(none),1.1,1.1 Intra-bank $,Intra-bank,$,2,1,1_mobile_payments_mobile_app_based_1_1_to_1_2,instrument,channel_view,False,False,44
+10,1_2_inter_bank,A. Other Payment Channels,(none),1.2,1.2 Inter-bank $,Inter-bank,$,2,1,1_mobile_payments_mobile_app_based_1_1_to_1_2,instrument,channel_view,False,False,45
+30,2_internet_payments_netbanking_internet_browser_based_2_1_to,A. Other Payment Channels,(none),2,2 Internet Payments (Netbanking / Internet Browser Based) @ (2.1 to 2.2),Internet Payments (Netbanking / Internet Browser Based) (2.1 to 2.2),@,1,,,group,channel_view,False,True,46
+18,2_1_intra_bank,A. Other Payment Channels,(none),2.1,2.1 Intra-bank @,Intra-bank,@,2,2,2_internet_payments_netbanking_internet_browser_based_2_1_to,instrument,channel_view,False,False,47
+22,2_2_inter_bank,A. Other Payment Channels,(none),2.2,2.2 Inter-bank @,Inter-bank,@,2,2,2_internet_payments_netbanking_internet_browser_based_2_1_to,instrument,channel_view,False,False,48
+41,3_cash_withdrawal_at_atms_3_1_to_3_3,B. ATMs,(none),3,3 Cash Withdrawal at ATMs $ (3.1 to 3.3),Cash Withdrawal at ATMs (3.1 to 3.3),$,1,,,group,channel_view,False,True,49
+34,3_1_using_credit_cards,B. ATMs,(none),3.1,3.1 Using Credit Cards $,Using Credit Cards,$,2,3,3_cash_withdrawal_at_atms_3_1_to_3_3,instrument,channel_view,False,False,50
+36,3_2_using_debit_cards,B. ATMs,(none),3.2,3.2 Using Debit Cards $,Using Debit Cards,$,2,3,3_cash_withdrawal_at_atms_3_1_to_3_3,instrument,channel_view,False,False,51
+39,3_3_using_pre_paid_cards,B. ATMs,(none),3.3,3.3 Using Pre-paid Cards $,Using Pre-paid Cards,$,2,3,3_cash_withdrawal_at_atms_3_1_to_3_3,instrument,channel_view,False,False,52
+53,4_cash_withdrawal_at_pos_4_1_to_4_2,B. ATMs,(none),4,4 Cash Withdrawal at PoS $ (4.1 to 4.2),Cash Withdrawal at PoS (4.1 to 4.2),$,1,,,group,channel_view,False,True,53
+47,4_1_using_debit_cards,B. ATMs,(none),4.1,4.1 Using Debit Cards $,Using Debit Cards,$,2,4,4_cash_withdrawal_at_pos_4_1_to_4_2,instrument,channel_view,False,False,54
+51,4_2_using_pre_paid_cards,B. ATMs,(none),4.2,4.2 Using Pre-paid Cards $,Using Pre-paid Cards,$,2,4,4_cash_withdrawal_at_pos_4_1_to_4_2,instrument,channel_view,False,False,55
+60,5_cash_withrawal_at_micro_atms,B. ATMs,(none),5,5 Cash Withrawal at Micro ATMs @,Cash Withrawal at Micro ATMs,@,1,,,group,channel_view,False,True,56
+55,5_1_aeps,B. ATMs,(none),5.1,5.1 AePS @,AePS,@,2,5,5_cash_withrawal_at_micro_atms,instrument,channel_view,False,False,57
+16,1_number_of_cards_1_1_to_1_2,Payment System Infrastructures,(none),1,1 Number of Cards (1.1 to 1.2),Number of Cards (1.1 to 1.2),,1,,,group,infrastructure,False,True,58
+4,1_1_credit_cards,Payment System Infrastructures,(none),1.1,1.1 Credit Cards,Credit Cards,,2,1,1_number_of_cards_1_1_to_1_2,instrument,infrastructure,False,False,59
+8,1_2_debit_cards,Payment System Infrastructures,(none),1.2,1.2 Debit Cards,Debit Cards,,2,1,1_number_of_cards_1_1_to_1_2,instrument,infrastructure,False,False,60
+31,2_number_of_ppis_2_1_to_2_2,Payment System Infrastructures,(none),2,2 Number of PPIs @ (2.1 to 2.2),Number of PPIs (2.1 to 2.2),@,1,,,group,infrastructure,False,True,61
+19,2_1_wallets,Payment System Infrastructures,(none),2.1,2.1 Wallets @,Wallets,@,2,2,2_number_of_ppis_2_1_to_2_2,instrument,infrastructure,False,False,62
+21,2_2_cards,Payment System Infrastructures,(none),2.2,2.2 Cards @,Cards,@,2,2,2_number_of_ppis_2_1_to_2_2,instrument,infrastructure,False,False,63
+43,3_number_of_atms_3_1_to_3_2,Payment System Infrastructures,(none),3,3 Number of ATMs (3.1 to 3.2),Number of ATMs (3.1 to 3.2),,1,,,group,infrastructure,False,True,64
+32,3_1_bank_owned_atms,Payment System Infrastructures,(none),3.1,3.1 Bank owned ATMs $,Bank owned ATMs,$,2,3,3_number_of_atms_3_1_to_3_2,instrument,infrastructure,False,False,65
+37,3_2_white_label_atms,Payment System Infrastructures,(none),3.2,3.2 White Label ATMs $,White Label ATMs,$,2,3,3_number_of_atms_3_1_to_3_2,instrument,infrastructure,False,False,66
+54,4_number_of_micro_atms,Payment System Infrastructures,(none),4,4 Number of Micro ATMs @,Number of Micro ATMs,@,1,,,group,infrastructure,False,False,67
+61,5_number_of_pos_terminals,Payment System Infrastructures,(none),5,5 Number of PoS Terminals,Number of PoS Terminals,,1,,,group,infrastructure,False,False,68
+65,6_bharat_qr,Payment System Infrastructures,(none),6,6 Bharat QR @,Bharat QR,@,1,,,group,infrastructure,False,False,69
+67,7_upi_qr,Payment System Infrastructures,(none),7,7 UPI QR *,UPI QR,*,1,,,group,infrastructure,False,False,70

@@ -1,0 +1,14 @@
+check_id,check_name,status,expected,actual,detail
+V01,"Structure: 2 metric columns per indicator, unique indicator keys",PASS,140 columns for 70 indicators,"140 columns, 70 indicators after cleaning",
+V02,Unit headers are 'Volume (Lakh)' / 'Value( Rupees Crores )' for every column,PASS,0,0,"volume is in lakh (1 lakh = 100,000); value is in INR crore (1 crore = 10,000,000)"
+V03,Reporting months are valid and continuous (no missing month),PASS,82 months,"82 months, 0 missing",2019-11-01 to 2026-08-01
+V04,Every sheet cell is either a number or RBI's '-' placeholder (no stray text),PASS,0 stray text cells,0 stray; 10362 numeric; 1118 '-' placeholders,
+V05,"No duplicate (month, indicator, metric) rows",PASS,0,0,
+V06,Empty cells are explained (leading/trailing gaps are expected; interior gaps are suspicious),WARN,interior gaps = 0,"1118 empty cells: {'interior_gap': 500, 'leading_gap_not_yet_reported': 464, 'trailing_gap_series_ended': 154}","Leading gap = not yet reported; trailing gap = series ended (ECS merged into NACH, Jan 2020). Interior gaps are mostly discontinued or sparse series, largest: 3_2_ecs_dr value (72), 2_3_ecs_cr volume (47), 2_3_ecs_cr value (46), 4_number_of_micro_atms value (36)"
+V07,No negative values (zeros are kept and flagged),PASS,negative = 0,"negative = 0, zero = 396","Zero values mostly mark discontinued or newly introduced instruments; they are flagged, not removed"
+V08,Every parent equals the sum of its child indicators (excluding 'of which' items),PASS,0 violations,0 violations in 2656 comparisons across 19 parents,
+V09,RBI total rows equal the sum of their groups,WARN,0 violations,3 violations in 492 comparisons,"total_retail_payments_2_3_4_5_6 volume Sep-2023: reported 131,990.38 vs groups 125,847.22 (4.65%); total_payments_1_2_3_4_5_6 volume Sep-2023: reported 132,204.32 vs groups 126,061.15 (4.65%); total_digital_payments_1_2_3_4_5 volume Sep-2023: reported 131,665.97 vs groups 125,522.80 (4.67%). Cause: group(s) ['5'] have no volume figure in Sep-2023 ('-' in the RBI sheet) although the reported totals include them; implied missing amount = 6,143.16. Source anomaly, kept as published."
+V10,Source totals equal processed totals for every indicator and metric,PASS,0 mismatches,0 mismatches over 140 series; rows in 11480 = kept 10362 + rejected 1118,largest absolute difference = 0.000000000
+V11,Row accounting: raw cells = cleaned rows + rejected rows,PASS,11480,11480,
+V12,Cleaned data matches the earlier psi_monthly_long.csv extract,PASS,10362 identical rows,"10362 matched, 0 only in new, 0 only in reference, max abs diff 0.000000000",
+V13,Unusual month-on-month moves flagged for review (modified z-score),INFO,"flags only, no rows removed",142 flagged of 10362 rows,threshold |z| > 6.0

@@ -1,0 +1,1119 @@
+source_row,source_col,month_date,section,indicator_label,indicator_code,metric,value_raw,reject_reason
+59,28,2022-05-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+58,28,2022-06-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+57,28,2022-07-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+56,28,2022-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+55,28,2022-09-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+54,28,2022-10-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+53,28,2022-11-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+52,28,2022-12-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+51,28,2023-01-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+50,28,2023-02-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+49,28,2023-03-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+48,28,2023-04-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+47,28,2023-05-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+46,28,2023-06-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+45,28,2023-07-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+44,28,2023-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+43,28,2023-09-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+42,28,2023-10-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+41,28,2023-11-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+40,28,2023-12-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+39,28,2024-01-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+38,28,2024-02-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+37,28,2024-03-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+36,28,2024-04-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+35,28,2024-05-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+34,28,2024-06-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+33,28,2024-07-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+32,28,2024-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+31,28,2024-09-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+30,28,2024-10-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+29,28,2024-11-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+28,28,2024-12-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+27,28,2025-01-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+26,28,2025-02-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+25,28,2025-03-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+24,28,2025-04-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+23,28,2025-05-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+22,28,2025-06-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+21,28,2025-07-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+20,28,2025-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+19,28,2025-09-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+18,28,2025-10-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+17,28,2025-11-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+15,28,2026-01-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+14,28,2026-02-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+13,28,2026-03-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+12,28,2026-04-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,interior_gap
+8,28,2026-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,volume,-,trailing_gap_series_ended
+59,29,2022-05-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+58,29,2022-06-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+57,29,2022-07-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+56,29,2022-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+55,29,2022-09-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+54,29,2022-10-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+53,29,2022-11-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+52,29,2022-12-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+51,29,2023-01-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+50,29,2023-02-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+49,29,2023-03-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+48,29,2023-04-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+47,29,2023-05-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+46,29,2023-06-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+45,29,2023-07-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+44,29,2023-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+43,29,2023-09-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+42,29,2023-10-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+41,29,2023-11-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+40,29,2023-12-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+39,29,2024-01-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+38,29,2024-02-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+37,29,2024-03-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+36,29,2024-04-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+35,29,2024-05-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+34,29,2024-06-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+33,29,2024-07-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+32,29,2024-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+31,29,2024-09-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+30,29,2024-10-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+29,29,2024-11-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+28,29,2024-12-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+27,29,2025-01-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+26,29,2025-02-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+25,29,2025-03-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+24,29,2025-04-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+23,29,2025-05-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+22,29,2025-06-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+21,29,2025-07-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+20,29,2025-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+19,29,2025-09-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+18,29,2025-10-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+17,29,2025-11-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+15,29,2026-01-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+13,29,2026-03-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+12,29,2026-04-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,interior_gap
+8,29,2026-08-01,B. Payment Systems,2.3 ECS Cr,2_3_ecs_cr,value,-,trailing_gap_series_ended
+89,44,2019-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+88,44,2019-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+87,44,2020-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+86,44,2020-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+85,44,2020-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+84,44,2020-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+83,44,2020-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+82,44,2020-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+81,44,2020-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+80,44,2020-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+79,44,2020-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+78,44,2020-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+77,44,2020-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+76,44,2020-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+75,44,2021-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+74,44,2021-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+73,44,2021-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+72,44,2021-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+71,44,2021-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+70,44,2021-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+69,44,2021-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+68,44,2021-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+67,44,2021-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+66,44,2021-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+65,44,2021-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+64,44,2021-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+63,44,2022-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+62,44,2022-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+61,44,2022-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+60,44,2022-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+59,44,2022-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+58,44,2022-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+57,44,2022-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+56,44,2022-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+55,44,2022-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+54,44,2022-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+53,44,2022-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+52,44,2022-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+51,44,2023-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+50,44,2023-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+49,44,2023-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+48,44,2023-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+47,44,2023-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+46,44,2023-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+45,44,2023-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+44,44,2023-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+43,44,2023-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+42,44,2023-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+41,44,2023-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+40,44,2023-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+39,44,2024-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+38,44,2024-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+37,44,2024-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+36,44,2024-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+35,44,2024-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+34,44,2024-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+33,44,2024-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+32,44,2024-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+31,44,2024-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+30,44,2024-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+29,44,2024-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+28,44,2024-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+27,44,2025-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+26,44,2025-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+25,44,2025-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+24,44,2025-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+23,44,2025-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+22,44,2025-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+21,44,2025-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+20,44,2025-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+19,44,2025-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+18,44,2025-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+17,44,2025-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,leading_gap_not_yet_reported
+15,44,2026-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,interior_gap
+14,44,2026-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,interior_gap
+13,44,2026-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,interior_gap
+12,44,2026-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,interior_gap
+8,44,2026-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,volume,-,trailing_gap_series_ended
+89,45,2019-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,leading_gap_not_yet_reported
+88,45,2019-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,leading_gap_not_yet_reported
+87,45,2020-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,leading_gap_not_yet_reported
+86,45,2020-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,leading_gap_not_yet_reported
+84,45,2020-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+83,45,2020-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+82,45,2020-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+81,45,2020-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+80,45,2020-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+79,45,2020-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+78,45,2020-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+77,45,2020-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+76,45,2020-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+75,45,2021-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+74,45,2021-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+73,45,2021-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+72,45,2021-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+71,45,2021-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+70,45,2021-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+69,45,2021-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+68,45,2021-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+67,45,2021-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+66,45,2021-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+65,45,2021-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+64,45,2021-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+63,45,2022-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+62,45,2022-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+61,45,2022-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+60,45,2022-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+59,45,2022-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+58,45,2022-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+57,45,2022-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+56,45,2022-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+55,45,2022-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+54,45,2022-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+53,45,2022-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+52,45,2022-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+51,45,2023-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+50,45,2023-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+49,45,2023-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+48,45,2023-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+47,45,2023-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+46,45,2023-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+45,45,2023-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+44,45,2023-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+43,45,2023-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+42,45,2023-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+41,45,2023-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+40,45,2023-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+39,45,2024-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+38,45,2024-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+37,45,2024-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+36,45,2024-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+35,45,2024-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+34,45,2024-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+33,45,2024-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+32,45,2024-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+31,45,2024-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+30,45,2024-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+29,45,2024-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+28,45,2024-12-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+27,45,2025-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+26,45,2025-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+25,45,2025-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+24,45,2025-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+23,45,2025-05-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+22,45,2025-06-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+21,45,2025-07-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+20,45,2025-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+19,45,2025-09-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+18,45,2025-10-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+17,45,2025-11-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+15,45,2026-01-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+14,45,2026-02-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+13,45,2026-03-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+12,45,2026-04-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,interior_gap
+8,45,2026-08-01,B. Payment Systems,3.2 ECS Dr,3_2_ecs_dr,value,-,trailing_gap_series_ended
+43,64,2023-09-01,B. Payment Systems,5 Prepaid Payment Instruments (5.1 to 5.2),5_prepaid_payment_instruments_5_1_to_5_2,volume,-,interior_gap
+89,117,2019-11-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+88,117,2019-12-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+87,117,2020-01-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+86,117,2020-02-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+85,117,2020-03-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+84,117,2020-04-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+83,117,2020-05-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+82,117,2020-06-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+81,117,2020-07-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+80,117,2020-08-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+79,117,2020-09-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+78,117,2020-10-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+77,117,2020-11-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+76,117,2020-12-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+75,117,2021-01-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+74,117,2021-02-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+73,117,2021-03-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+72,117,2021-04-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+71,117,2021-05-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+70,117,2021-06-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+69,117,2021-07-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+68,117,2021-08-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+67,117,2021-09-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+66,117,2021-10-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+65,117,2021-11-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+64,117,2021-12-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+63,117,2022-01-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+62,117,2022-02-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+61,117,2022-03-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,leading_gap_not_yet_reported
+57,117,2022-07-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,interior_gap
+47,117,2023-05-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+46,117,2023-06-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+45,117,2023-07-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+44,117,2023-08-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+43,117,2023-09-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+42,117,2023-10-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+41,117,2023-11-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+40,117,2023-12-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+39,117,2024-01-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+38,117,2024-02-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+37,117,2024-03-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+36,117,2024-04-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+35,117,2024-05-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+34,117,2024-06-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+33,117,2024-07-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+32,117,2024-08-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+31,117,2024-09-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+30,117,2024-10-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+29,117,2024-11-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+28,117,2024-12-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+27,117,2025-01-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+26,117,2025-02-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+25,117,2025-03-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+24,117,2025-04-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+23,117,2025-05-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+22,117,2025-06-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+21,117,2025-07-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+20,117,2025-08-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+19,117,2025-09-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+18,117,2025-10-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+17,117,2025-11-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+16,117,2025-12-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+15,117,2026-01-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+14,117,2026-02-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+13,117,2026-03-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+12,117,2026-04-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+11,117,2026-05-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+10,117,2026-06-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+9,117,2026-07-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+8,117,2026-08-01,Payment System Infrastructures,1 Number of Cards (1.1 to 1.2),1_number_of_cards_1_1_to_1_2,value,-,trailing_gap_series_ended
+89,119,2019-11-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+88,119,2019-12-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+87,119,2020-01-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+86,119,2020-02-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+85,119,2020-03-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+84,119,2020-04-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+83,119,2020-05-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+82,119,2020-06-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+81,119,2020-07-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+80,119,2020-08-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+79,119,2020-09-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+78,119,2020-10-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+77,119,2020-11-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+76,119,2020-12-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+75,119,2021-01-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+74,119,2021-02-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+73,119,2021-03-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+72,119,2021-04-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+71,119,2021-05-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+70,119,2021-06-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+69,119,2021-07-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+68,119,2021-08-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+67,119,2021-09-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+66,119,2021-10-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+65,119,2021-11-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+64,119,2021-12-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+63,119,2022-01-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+62,119,2022-02-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+61,119,2022-03-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,leading_gap_not_yet_reported
+47,119,2023-05-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+46,119,2023-06-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+45,119,2023-07-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+44,119,2023-08-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+43,119,2023-09-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+42,119,2023-10-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+41,119,2023-11-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+40,119,2023-12-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+39,119,2024-01-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+38,119,2024-02-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+37,119,2024-03-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+36,119,2024-04-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+35,119,2024-05-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+34,119,2024-06-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+33,119,2024-07-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+32,119,2024-08-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+31,119,2024-09-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+30,119,2024-10-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+29,119,2024-11-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+28,119,2024-12-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+27,119,2025-01-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+26,119,2025-02-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+25,119,2025-03-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+24,119,2025-04-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+23,119,2025-05-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+22,119,2025-06-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+21,119,2025-07-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+20,119,2025-08-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+19,119,2025-09-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+18,119,2025-10-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+17,119,2025-11-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+15,119,2026-01-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+14,119,2026-02-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+13,119,2026-03-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,interior_gap
+10,119,2026-06-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,trailing_gap_series_ended
+9,119,2026-07-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,trailing_gap_series_ended
+8,119,2026-08-01,Payment System Infrastructures,1.1 Credit Cards,1_1_credit_cards,value,-,trailing_gap_series_ended
+89,121,2019-11-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+88,121,2019-12-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+87,121,2020-01-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+86,121,2020-02-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+85,121,2020-03-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+84,121,2020-04-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+83,121,2020-05-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+82,121,2020-06-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+81,121,2020-07-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+80,121,2020-08-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+79,121,2020-09-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+78,121,2020-10-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+77,121,2020-11-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+76,121,2020-12-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+75,121,2021-01-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+74,121,2021-02-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+73,121,2021-03-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+72,121,2021-04-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+71,121,2021-05-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+70,121,2021-06-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+69,121,2021-07-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+68,121,2021-08-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+67,121,2021-09-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+66,121,2021-10-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+65,121,2021-11-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+64,121,2021-12-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+63,121,2022-01-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+62,121,2022-02-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+61,121,2022-03-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,leading_gap_not_yet_reported
+57,121,2022-07-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+47,121,2023-05-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+46,121,2023-06-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+45,121,2023-07-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+44,121,2023-08-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+43,121,2023-09-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+42,121,2023-10-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+41,121,2023-11-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+40,121,2023-12-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+39,121,2024-01-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+38,121,2024-02-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+37,121,2024-03-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+36,121,2024-04-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+35,121,2024-05-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+34,121,2024-06-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+33,121,2024-07-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+32,121,2024-08-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+31,121,2024-09-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+30,121,2024-10-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+29,121,2024-11-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+28,121,2024-12-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+27,121,2025-01-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+26,121,2025-02-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+25,121,2025-03-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+24,121,2025-04-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+23,121,2025-05-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+22,121,2025-06-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+21,121,2025-07-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+20,121,2025-08-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+19,121,2025-09-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+18,121,2025-10-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+17,121,2025-11-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+15,121,2026-01-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+14,121,2026-02-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+13,121,2026-03-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+12,121,2026-04-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,interior_gap
+10,121,2026-06-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,trailing_gap_series_ended
+9,121,2026-07-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,trailing_gap_series_ended
+8,121,2026-08-01,Payment System Infrastructures,1.2 Debit Cards,1_2_debit_cards,value,-,trailing_gap_series_ended
+89,123,2019-11-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+88,123,2019-12-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+87,123,2020-01-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+86,123,2020-02-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+85,123,2020-03-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+84,123,2020-04-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+83,123,2020-05-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+82,123,2020-06-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+81,123,2020-07-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+80,123,2020-08-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+79,123,2020-09-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+78,123,2020-10-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+77,123,2020-11-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+76,123,2020-12-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+75,123,2021-01-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+74,123,2021-02-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+73,123,2021-03-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+72,123,2021-04-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+71,123,2021-05-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+70,123,2021-06-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+69,123,2021-07-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+68,123,2021-08-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+67,123,2021-09-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+66,123,2021-10-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+65,123,2021-11-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+64,123,2021-12-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+63,123,2022-01-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+62,123,2022-02-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+61,123,2022-03-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,leading_gap_not_yet_reported
+57,123,2022-07-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,interior_gap
+47,123,2023-05-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+46,123,2023-06-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+45,123,2023-07-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+44,123,2023-08-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+43,123,2023-09-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+42,123,2023-10-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+41,123,2023-11-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+40,123,2023-12-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+39,123,2024-01-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+38,123,2024-02-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+37,123,2024-03-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+36,123,2024-04-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+35,123,2024-05-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+34,123,2024-06-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+33,123,2024-07-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+32,123,2024-08-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+31,123,2024-09-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+30,123,2024-10-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+29,123,2024-11-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+28,123,2024-12-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+27,123,2025-01-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+26,123,2025-02-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+25,123,2025-03-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+24,123,2025-04-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+23,123,2025-05-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+22,123,2025-06-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+21,123,2025-07-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+20,123,2025-08-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+19,123,2025-09-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+18,123,2025-10-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+17,123,2025-11-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+16,123,2025-12-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+15,123,2026-01-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+14,123,2026-02-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+13,123,2026-03-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+12,123,2026-04-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+11,123,2026-05-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+10,123,2026-06-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+9,123,2026-07-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+8,123,2026-08-01,Payment System Infrastructures,2 Number of PPIs @ (2.1 to 2.2),2_number_of_ppis_2_1_to_2_2,value,-,trailing_gap_series_ended
+89,125,2019-11-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+88,125,2019-12-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+87,125,2020-01-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+86,125,2020-02-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+85,125,2020-03-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+84,125,2020-04-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+83,125,2020-05-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+82,125,2020-06-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+81,125,2020-07-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+80,125,2020-08-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+79,125,2020-09-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+78,125,2020-10-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+77,125,2020-11-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+76,125,2020-12-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+75,125,2021-01-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+74,125,2021-02-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+73,125,2021-03-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+72,125,2021-04-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+71,125,2021-05-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+70,125,2021-06-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+69,125,2021-07-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+68,125,2021-08-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+67,125,2021-09-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+66,125,2021-10-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+65,125,2021-11-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+64,125,2021-12-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+63,125,2022-01-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+62,125,2022-02-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+61,125,2022-03-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,leading_gap_not_yet_reported
+47,125,2023-05-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+46,125,2023-06-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+45,125,2023-07-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+44,125,2023-08-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+43,125,2023-09-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+42,125,2023-10-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+41,125,2023-11-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+40,125,2023-12-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+39,125,2024-01-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+38,125,2024-02-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+37,125,2024-03-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+36,125,2024-04-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+35,125,2024-05-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+34,125,2024-06-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+33,125,2024-07-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+32,125,2024-08-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+31,125,2024-09-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+30,125,2024-10-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+29,125,2024-11-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+28,125,2024-12-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+27,125,2025-01-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+26,125,2025-02-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+25,125,2025-03-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+24,125,2025-04-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+23,125,2025-05-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+22,125,2025-06-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+21,125,2025-07-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+20,125,2025-08-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+19,125,2025-09-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+18,125,2025-10-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+17,125,2025-11-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+15,125,2026-01-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+14,125,2026-02-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+13,125,2026-03-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+12,125,2026-04-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,interior_gap
+10,125,2026-06-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,trailing_gap_series_ended
+9,125,2026-07-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,trailing_gap_series_ended
+8,125,2026-08-01,Payment System Infrastructures,2.1 Wallets @,2_1_wallets,value,-,trailing_gap_series_ended
+89,127,2019-11-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+88,127,2019-12-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+87,127,2020-01-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+86,127,2020-02-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+85,127,2020-03-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+84,127,2020-04-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+83,127,2020-05-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+82,127,2020-06-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+81,127,2020-07-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+80,127,2020-08-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+79,127,2020-09-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+78,127,2020-10-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+77,127,2020-11-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+76,127,2020-12-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+75,127,2021-01-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+74,127,2021-02-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+73,127,2021-03-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+72,127,2021-04-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+71,127,2021-05-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+70,127,2021-06-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+69,127,2021-07-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+68,127,2021-08-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+67,127,2021-09-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+66,127,2021-10-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+65,127,2021-11-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+64,127,2021-12-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+63,127,2022-01-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+62,127,2022-02-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+61,127,2022-03-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,leading_gap_not_yet_reported
+57,127,2022-07-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+47,127,2023-05-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+46,127,2023-06-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+45,127,2023-07-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+44,127,2023-08-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+43,127,2023-09-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+42,127,2023-10-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+41,127,2023-11-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+40,127,2023-12-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+39,127,2024-01-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+38,127,2024-02-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+37,127,2024-03-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+36,127,2024-04-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+35,127,2024-05-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+34,127,2024-06-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+33,127,2024-07-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+32,127,2024-08-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+31,127,2024-09-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+30,127,2024-10-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+29,127,2024-11-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+28,127,2024-12-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+27,127,2025-01-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+26,127,2025-02-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+25,127,2025-03-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+24,127,2025-04-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+23,127,2025-05-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+22,127,2025-06-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+21,127,2025-07-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+20,127,2025-08-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+19,127,2025-09-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+18,127,2025-10-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+17,127,2025-11-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+15,127,2026-01-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+14,127,2026-02-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+13,127,2026-03-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,interior_gap
+10,127,2026-06-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,trailing_gap_series_ended
+9,127,2026-07-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,trailing_gap_series_ended
+8,127,2026-08-01,Payment System Infrastructures,2.2 Cards @,2_2_cards,value,-,trailing_gap_series_ended
+89,129,2019-11-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+88,129,2019-12-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+87,129,2020-01-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+86,129,2020-02-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+85,129,2020-03-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+84,129,2020-04-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+83,129,2020-05-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+82,129,2020-06-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+81,129,2020-07-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+80,129,2020-08-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+79,129,2020-09-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+78,129,2020-10-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+77,129,2020-11-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+76,129,2020-12-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+75,129,2021-01-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+74,129,2021-02-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+73,129,2021-03-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+72,129,2021-04-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+71,129,2021-05-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+70,129,2021-06-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+69,129,2021-07-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+68,129,2021-08-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+67,129,2021-09-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+66,129,2021-10-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+65,129,2021-11-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+64,129,2021-12-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+63,129,2022-01-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+62,129,2022-02-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+61,129,2022-03-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,leading_gap_not_yet_reported
+47,129,2023-05-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+46,129,2023-06-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+45,129,2023-07-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+44,129,2023-08-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+43,129,2023-09-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+42,129,2023-10-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+41,129,2023-11-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+40,129,2023-12-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+39,129,2024-01-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+38,129,2024-02-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+37,129,2024-03-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+36,129,2024-04-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+35,129,2024-05-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+34,129,2024-06-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+33,129,2024-07-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+32,129,2024-08-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+31,129,2024-09-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+30,129,2024-10-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+29,129,2024-11-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+28,129,2024-12-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+27,129,2025-01-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+26,129,2025-02-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+25,129,2025-03-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+24,129,2025-04-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+23,129,2025-05-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+22,129,2025-06-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+21,129,2025-07-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+20,129,2025-08-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+19,129,2025-09-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+18,129,2025-10-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+17,129,2025-11-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+16,129,2025-12-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+15,129,2026-01-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+14,129,2026-02-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+13,129,2026-03-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+12,129,2026-04-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+11,129,2026-05-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+10,129,2026-06-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+9,129,2026-07-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+8,129,2026-08-01,Payment System Infrastructures,3 Number of ATMs (3.1 to 3.2),3_number_of_atms_3_1_to_3_2,value,-,trailing_gap_series_ended
+89,131,2019-11-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+88,131,2019-12-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+87,131,2020-01-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+86,131,2020-02-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+85,131,2020-03-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+84,131,2020-04-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+83,131,2020-05-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+82,131,2020-06-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+81,131,2020-07-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+80,131,2020-08-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+79,131,2020-09-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+78,131,2020-10-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+77,131,2020-11-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+76,131,2020-12-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+75,131,2021-01-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+74,131,2021-02-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+73,131,2021-03-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+72,131,2021-04-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+71,131,2021-05-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+70,131,2021-06-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+69,131,2021-07-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+68,131,2021-08-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+67,131,2021-09-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+66,131,2021-10-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+65,131,2021-11-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+64,131,2021-12-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+63,131,2022-01-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+62,131,2022-02-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+61,131,2022-03-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,leading_gap_not_yet_reported
+47,131,2023-05-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+46,131,2023-06-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+45,131,2023-07-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+44,131,2023-08-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+43,131,2023-09-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+42,131,2023-10-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+41,131,2023-11-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+40,131,2023-12-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+39,131,2024-01-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+38,131,2024-02-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+37,131,2024-03-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+36,131,2024-04-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+35,131,2024-05-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+34,131,2024-06-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+33,131,2024-07-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+32,131,2024-08-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+31,131,2024-09-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+30,131,2024-10-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+29,131,2024-11-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+28,131,2024-12-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+27,131,2025-01-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+26,131,2025-02-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+25,131,2025-03-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+24,131,2025-04-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+23,131,2025-05-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+22,131,2025-06-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+21,131,2025-07-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+20,131,2025-08-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+19,131,2025-09-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+18,131,2025-10-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+17,131,2025-11-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+15,131,2026-01-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+14,131,2026-02-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+13,131,2026-03-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+12,131,2026-04-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,interior_gap
+10,131,2026-06-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,trailing_gap_series_ended
+9,131,2026-07-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,trailing_gap_series_ended
+8,131,2026-08-01,Payment System Infrastructures,3.1 Bank owned ATMs $,3_1_bank_owned_atms,value,-,trailing_gap_series_ended
+89,133,2019-11-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+88,133,2019-12-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+87,133,2020-01-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+86,133,2020-02-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+85,133,2020-03-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+84,133,2020-04-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+83,133,2020-05-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+82,133,2020-06-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+81,133,2020-07-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+80,133,2020-08-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+79,133,2020-09-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+78,133,2020-10-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+77,133,2020-11-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+76,133,2020-12-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+75,133,2021-01-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+74,133,2021-02-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+73,133,2021-03-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+72,133,2021-04-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+71,133,2021-05-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+70,133,2021-06-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+69,133,2021-07-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+68,133,2021-08-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+67,133,2021-09-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+66,133,2021-10-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+65,133,2021-11-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+64,133,2021-12-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+63,133,2022-01-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+62,133,2022-02-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+61,133,2022-03-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,leading_gap_not_yet_reported
+47,133,2023-05-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+46,133,2023-06-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+45,133,2023-07-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+44,133,2023-08-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+43,133,2023-09-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+42,133,2023-10-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+41,133,2023-11-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+40,133,2023-12-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+39,133,2024-01-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+38,133,2024-02-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+37,133,2024-03-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+36,133,2024-04-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+35,133,2024-05-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+34,133,2024-06-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+33,133,2024-07-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+32,133,2024-08-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+31,133,2024-09-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+30,133,2024-10-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+29,133,2024-11-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+28,133,2024-12-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+27,133,2025-01-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+26,133,2025-02-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+25,133,2025-03-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+24,133,2025-04-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+23,133,2025-05-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+22,133,2025-06-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+21,133,2025-07-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+20,133,2025-08-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+19,133,2025-09-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+18,133,2025-10-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+17,133,2025-11-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+15,133,2026-01-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+14,133,2026-02-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+13,133,2026-03-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+12,133,2026-04-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,interior_gap
+10,133,2026-06-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,trailing_gap_series_ended
+9,133,2026-07-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,trailing_gap_series_ended
+8,133,2026-08-01,Payment System Infrastructures,3.2 White Label ATMs $,3_2_white_label_atms,value,-,trailing_gap_series_ended
+89,135,2019-11-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+88,135,2019-12-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+87,135,2020-01-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+86,135,2020-02-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+85,135,2020-03-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+84,135,2020-04-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+83,135,2020-05-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+82,135,2020-06-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+81,135,2020-07-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+80,135,2020-08-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+79,135,2020-09-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+78,135,2020-10-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+77,135,2020-11-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+76,135,2020-12-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+75,135,2021-01-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+74,135,2021-02-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+73,135,2021-03-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+72,135,2021-04-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+71,135,2021-05-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+70,135,2021-06-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+69,135,2021-07-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+68,135,2021-08-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+67,135,2021-09-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+66,135,2021-10-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+65,135,2021-11-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+64,135,2021-12-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+63,135,2022-01-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+62,135,2022-02-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+61,135,2022-03-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,leading_gap_not_yet_reported
+57,135,2022-07-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+47,135,2023-05-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+46,135,2023-06-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+45,135,2023-07-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+44,135,2023-08-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+43,135,2023-09-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+42,135,2023-10-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+41,135,2023-11-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+40,135,2023-12-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+39,135,2024-01-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+38,135,2024-02-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+37,135,2024-03-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+36,135,2024-04-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+35,135,2024-05-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+34,135,2024-06-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+33,135,2024-07-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+32,135,2024-08-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+31,135,2024-09-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+30,135,2024-10-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+29,135,2024-11-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+28,135,2024-12-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+27,135,2025-01-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+26,135,2025-02-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+25,135,2025-03-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+24,135,2025-04-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+23,135,2025-05-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+22,135,2025-06-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+21,135,2025-07-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+20,135,2025-08-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+19,135,2025-09-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+18,135,2025-10-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+17,135,2025-11-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+15,135,2026-01-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+14,135,2026-02-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+13,135,2026-03-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+12,135,2026-04-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,interior_gap
+10,135,2026-06-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,trailing_gap_series_ended
+9,135,2026-07-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,trailing_gap_series_ended
+8,135,2026-08-01,Payment System Infrastructures,4 Number of Micro ATMs @,4_number_of_micro_atms,value,-,trailing_gap_series_ended
+89,137,2019-11-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+88,137,2019-12-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+87,137,2020-01-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+86,137,2020-02-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+85,137,2020-03-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+84,137,2020-04-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+83,137,2020-05-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+82,137,2020-06-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+81,137,2020-07-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+80,137,2020-08-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+79,137,2020-09-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+78,137,2020-10-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+77,137,2020-11-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+76,137,2020-12-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+75,137,2021-01-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+74,137,2021-02-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+73,137,2021-03-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+72,137,2021-04-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+71,137,2021-05-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+70,137,2021-06-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+69,137,2021-07-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+68,137,2021-08-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+67,137,2021-09-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+66,137,2021-10-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+65,137,2021-11-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+64,137,2021-12-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+63,137,2022-01-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+62,137,2022-02-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+61,137,2022-03-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,leading_gap_not_yet_reported
+47,137,2023-05-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+46,137,2023-06-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+45,137,2023-07-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+44,137,2023-08-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+43,137,2023-09-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+42,137,2023-10-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+41,137,2023-11-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+40,137,2023-12-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+39,137,2024-01-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+38,137,2024-02-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+37,137,2024-03-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+36,137,2024-04-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+35,137,2024-05-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+34,137,2024-06-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+33,137,2024-07-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+32,137,2024-08-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+31,137,2024-09-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+30,137,2024-10-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+29,137,2024-11-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+28,137,2024-12-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+27,137,2025-01-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+26,137,2025-02-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+25,137,2025-03-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+24,137,2025-04-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+23,137,2025-05-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+22,137,2025-06-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+21,137,2025-07-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+20,137,2025-08-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+19,137,2025-09-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+18,137,2025-10-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+17,137,2025-11-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+15,137,2026-01-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+14,137,2026-02-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+13,137,2026-03-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+12,137,2026-04-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,interior_gap
+10,137,2026-06-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,trailing_gap_series_ended
+9,137,2026-07-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,trailing_gap_series_ended
+8,137,2026-08-01,Payment System Infrastructures,5 Number of PoS Terminals,5_number_of_pos_terminals,value,-,trailing_gap_series_ended
+89,139,2019-11-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+88,139,2019-12-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+87,139,2020-01-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+86,139,2020-02-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+85,139,2020-03-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+84,139,2020-04-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+83,139,2020-05-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+82,139,2020-06-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+81,139,2020-07-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+80,139,2020-08-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+79,139,2020-09-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+78,139,2020-10-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+77,139,2020-11-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+76,139,2020-12-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+75,139,2021-01-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+74,139,2021-02-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+73,139,2021-03-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+72,139,2021-04-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+71,139,2021-05-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+70,139,2021-06-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+69,139,2021-07-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+68,139,2021-08-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+67,139,2021-09-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+66,139,2021-10-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+65,139,2021-11-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+64,139,2021-12-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+63,139,2022-01-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+62,139,2022-02-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+61,139,2022-03-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,leading_gap_not_yet_reported
+47,139,2023-05-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+46,139,2023-06-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+45,139,2023-07-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+44,139,2023-08-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+43,139,2023-09-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+42,139,2023-10-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+41,139,2023-11-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+40,139,2023-12-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+39,139,2024-01-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+38,139,2024-02-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+37,139,2024-03-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+36,139,2024-04-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+35,139,2024-05-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+34,139,2024-06-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+33,139,2024-07-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+32,139,2024-08-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+31,139,2024-09-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+30,139,2024-10-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+29,139,2024-11-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+28,139,2024-12-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+27,139,2025-01-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+26,139,2025-02-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+25,139,2025-03-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+24,139,2025-04-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+23,139,2025-05-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+22,139,2025-06-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+21,139,2025-07-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+20,139,2025-08-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+19,139,2025-09-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+18,139,2025-10-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+17,139,2025-11-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+15,139,2026-01-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+14,139,2026-02-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+13,139,2026-03-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+12,139,2026-04-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,interior_gap
+10,139,2026-06-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,trailing_gap_series_ended
+9,139,2026-07-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,trailing_gap_series_ended
+8,139,2026-08-01,Payment System Infrastructures,6 Bharat QR @,6_bharat_qr,value,-,trailing_gap_series_ended
+89,140,2019-11-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+88,140,2019-12-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+87,140,2020-01-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+86,140,2020-02-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+85,140,2020-03-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+84,140,2020-04-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+83,140,2020-05-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+82,140,2020-06-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+81,140,2020-07-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+80,140,2020-08-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,volume,-,leading_gap_not_yet_reported
+89,141,2019-11-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+88,141,2019-12-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+87,141,2020-01-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+86,141,2020-02-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+85,141,2020-03-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+84,141,2020-04-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+83,141,2020-05-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+82,141,2020-06-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+81,141,2020-07-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+80,141,2020-08-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+79,141,2020-09-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+78,141,2020-10-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+77,141,2020-11-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+76,141,2020-12-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+75,141,2021-01-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+74,141,2021-02-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+73,141,2021-03-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+72,141,2021-04-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+71,141,2021-05-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+70,141,2021-06-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+69,141,2021-07-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+68,141,2021-08-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+67,141,2021-09-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+66,141,2021-10-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+65,141,2021-11-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+64,141,2021-12-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+63,141,2022-01-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+62,141,2022-02-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+61,141,2022-03-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,leading_gap_not_yet_reported
+57,141,2022-07-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+47,141,2023-05-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+46,141,2023-06-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+45,141,2023-07-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+44,141,2023-08-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+43,141,2023-09-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+42,141,2023-10-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+41,141,2023-11-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+40,141,2023-12-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+14,141,2026-02-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+13,141,2026-03-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+12,141,2026-04-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,interior_gap
+10,141,2026-06-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,trailing_gap_series_ended
+9,141,2026-07-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,trailing_gap_series_ended
+8,141,2026-08-01,Payment System Infrastructures,7 UPI QR *,7_upi_qr,value,-,trailing_gap_series_ended

@@ -1,0 +1,1057 @@
+month_date,year,month,year_month,fiscal_year,indicator_code,code_number,indicator_name,analysis_role,display_order,count_lakh,count_mom_pct,count_yoy_pct
+2019-11-01,2019,11,2019-11,FY2019-20,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,8851.69355,,
+2019-11-01,2019,11,2019-11,FY2019-20,1_1_credit_cards,1.1,Credit Cards,instrument,59,544.10765,,
+2019-11-01,2019,11,2019-11,FY2019-20,1_2_debit_cards,1.2,Debit Cards,instrument,60,8307.5859,,
+2019-11-01,2019,11,2019-11,FY2019-20,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,17263.20167,,
+2019-11-01,2019,11,2019-11,FY2019-20,2_1_wallets,2.1,Wallets,instrument,62,16243.87035,,
+2019-11-01,2019,11,2019-11,FY2019-20,2_2_cards,2.2,Cards,instrument,63,1019.33132,,
+2019-11-01,2019,11,2019-11,FY2019-20,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.31955,,
+2019-11-01,2019,11,2019-11,FY2019-20,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.10048,,
+2019-11-01,2019,11,2019-11,FY2019-20,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.21907,,
+2019-11-01,2019,11,2019-11,FY2019-20,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,3.73687,,
+2019-11-01,2019,11,2019-11,FY2019-20,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,41.28351,,
+2019-11-01,2019,11,2019-11,FY2019-20,6_bharat_qr,6,Bharat QR,group,69,15.94438,,
+2019-12-01,2019,12,2019-12,FY2019-20,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,8606.57053,-2.7692,
+2019-12-01,2019,12,2019-12,FY2019-20,1_1_credit_cards,1.1,Credit Cards,instrument,59,553.32847,1.6947,
+2019-12-01,2019,12,2019-12,FY2019-20,1_2_debit_cards,1.2,Debit Cards,instrument,60,8053.24206,-3.0616,
+2019-12-01,2019,12,2019-12,FY2019-20,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,17625.43054,2.0983,
+2019-12-01,2019,12,2019-12,FY2019-20,2_1_wallets,2.1,Wallets,instrument,62,16615.68161,2.2889,
+2019-12-01,2019,12,2019-12,FY2019-20,2_2_cards,2.2,Cards,instrument,63,1009.74893,-0.9401,
+2019-12-01,2019,12,2019-12,FY2019-20,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.31999,0.019,
+2019-12-01,2019,12,2019-12,FY2019-20,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.09639,-0.1947,
+2019-12-01,2019,12,2019-12,FY2019-20,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.2236,2.0678,
+2019-12-01,2019,12,2019-12,FY2019-20,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,3.80833,1.9123,
+2019-12-01,2019,12,2019-12,FY2019-20,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,42.48777,2.917,
+2019-12-01,2019,12,2019-12,FY2019-20,6_bharat_qr,6,Bharat QR,group,69,17.13447,7.464,
+2020-01-01,2020,1,2020-01,FY2019-20,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,8725.30245,1.3795,
+2020-01-01,2020,1,2020-01,FY2019-20,1_1_credit_cards,1.1,Credit Cards,instrument,59,561.20245,1.423,
+2020-01-01,2020,1,2020-01,FY2019-20,1_2_debit_cards,1.2,Debit Cards,instrument,60,8164.1,1.3766,
+2020-01-01,2020,1,2020-01,FY2019-20,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,17574.74092,-0.2876,
+2020-01-01,2020,1,2020-01,FY2019-20,2_1_wallets,2.1,Wallets,instrument,62,16575.30681,-0.243,
+2020-01-01,2020,1,2020-01,FY2019-20,2_2_cards,2.2,Cards,instrument,63,999.43411,-1.0215,
+2020-01-01,2020,1,2020-01,FY2019-20,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.33013,0.4371,
+2020-01-01,2020,1,2020-01,FY2019-20,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.10263,0.2977,
+2020-01-01,2020,1,2020-01,FY2019-20,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.2275,1.7442,
+2020-01-01,2020,1,2020-01,FY2019-20,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,3.96121,4.0144,
+2020-01-01,2020,1,2020-01,FY2019-20,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,42.91612,1.0082,
+2020-01-01,2020,1,2020-01,FY2019-20,6_bharat_qr,6,Bharat QR,group,69,17.78891,3.8194,
+2020-02-01,2020,2,2020-02,FY2019-20,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,8801.81043,0.8769,
+2020-02-01,2020,2,2020-02,FY2019-20,1_1_credit_cards,1.1,Credit Cards,instrument,59,571.5809,1.8493,
+2020-02-01,2020,2,2020-02,FY2019-20,1_2_debit_cards,1.2,Debit Cards,instrument,60,8230.22953,0.81,
+2020-02-01,2020,2,2020-02,FY2019-20,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,18103.64954,3.0095,
+2020-02-01,2020,2,2020-02,FY2019-20,2_1_wallets,2.1,Wallets,instrument,62,16808.08391,1.4044,
+2020-02-01,2020,2,2020-02,FY2019-20,2_2_cards,2.2,Cards,instrument,63,1295.56563,29.6299,
+2020-02-01,2020,2,2020-02,FY2019-20,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.34089,0.4618,
+2020-02-01,2020,2,2020-02,FY2019-20,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.10841,0.2749,
+2020-02-01,2020,2,2020-02,FY2019-20,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.23248,2.189,
+2020-02-01,2020,2,2020-02,FY2019-20,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,4.04941,2.2266,
+2020-02-01,2020,2,2020-02,FY2019-20,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,43.70702,1.8429,
+2020-02-01,2020,2,2020-02,FY2019-20,6_bharat_qr,6,Bharat QR,group,69,18.96435,6.6077,
+2020-03-01,2020,3,2020-03,FY2019-20,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,8863.06744,0.696,
+2020-03-01,2020,3,2020-03,FY2019-20,1_1_credit_cards,1.1,Credit Cards,instrument,59,577.45105,1.027,
+2020-03-01,2020,3,2020-03,FY2019-20,1_2_debit_cards,1.2,Debit Cards,instrument,60,8285.61639,0.673,
+2020-03-01,2020,3,2020-03,FY2019-20,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,18251.63669,0.8174,
+2020-03-01,2020,3,2020-03,FY2019-20,2_1_wallets,2.1,Wallets,instrument,62,17032.84644,1.3372,
+2020-03-01,2020,3,2020-03,FY2019-20,2_2_cards,2.2,Cards,instrument,63,1218.79025,-5.926,
+2020-03-01,2020,3,2020-03,FY2019-20,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.34357,0.1145,
+2020-03-01,2020,3,2020-03,FY2019-20,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.1076,-0.0384,
+2020-03-01,2020,3,2020-03,FY2019-20,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.23597,1.5012,
+2020-03-01,2020,3,2020-03,FY2019-20,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,4.11849,1.7059,
+2020-03-01,2020,3,2020-03,FY2019-20,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,44.33973,1.4476,
+2020-03-01,2020,3,2020-03,FY2019-20,6_bharat_qr,6,Bharat QR,group,69,20.28,6.9375,
+2020-04-01,2020,4,2020-04,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,8868.06843,0.0564,
+2020-04-01,2020,4,2020-04,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,573.60145,-0.6667,
+2020-04-01,2020,4,2020-04,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8294.46698,0.1068,
+2020-04-01,2020,4,2020-04,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,18342.7639,0.4993,
+2020-04-01,2020,4,2020-04,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,17150.44087,0.6904,
+2020-04-01,2020,4,2020-04,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1192.32303,-2.1716,
+2020-04-01,2020,4,2020-04,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.33945,-0.1758,
+2020-04-01,2020,4,2020-04,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.10195,-0.2681,
+2020-04-01,2020,4,2020-04,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.2375,0.6484,
+2020-04-01,2020,4,2020-04,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,3.9024,-5.2468,
+2020-04-01,2020,4,2020-04,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,43.91388,-0.9604,
+2020-04-01,2020,4,2020-04,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,20.19,-0.4438,
+2020-05-01,2020,5,2020-05,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,8925.29019,0.6453,
+2020-05-01,2020,5,2020-05,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,571.79899,-0.3142,
+2020-05-01,2020,5,2020-05,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8353.4912,0.7116,
+2020-05-01,2020,5,2020-05,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,18794.14751,2.4608,
+2020-05-01,2020,5,2020-05,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,17300.7672,0.8765,
+2020-05-01,2020,5,2020-05,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1493.38031,25.2496,
+2020-05-01,2020,5,2020-05,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.34139,0.0829,
+2020-05-01,2020,5,2020-05,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.10415,0.1047,
+2020-05-01,2020,5,2020-05,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.23724,-0.1095,
+2020-05-01,2020,5,2020-05,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,3.9804,1.9988,
+2020-05-01,2020,5,2020-05,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,43.22169,-1.5762,
+2020-05-01,2020,5,2020-05,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,20.59417,2.0018,
+2020-06-01,2020,6,2020-06,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9027.03417,1.14,
+2020-06-01,2020,6,2020-06,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,572.89033,0.1909,
+2020-06-01,2020,6,2020-06,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8454.14384,1.2049,
+2020-06-01,2020,6,2020-06,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,19008.06682,1.1382,
+2020-06-01,2020,6,2020-06,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,17553.63846,1.4616,
+2020-06-01,2020,6,2020-06,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1454.42836,-2.6083,
+2020-06-01,2020,6,2020-06,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.34268,0.0551,
+2020-06-01,2020,6,2020-06,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.10478,0.0299,
+2020-06-01,2020,6,2020-06,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.2379,0.2782,
+2020-06-01,2020,6,2020-06,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,4.0998,2.9997,
+2020-06-01,2020,6,2020-06,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,43.2583,0.0847,
+2020-06-01,2020,6,2020-06,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,21.51421,4.4675,
+2020-07-01,2020,7,2020-07,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9099.87048,0.8069,
+2020-07-01,2020,7,2020-07,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,576.32047,0.5987,
+2020-07-01,2020,7,2020-07,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8523.55001,0.821,
+2020-07-01,2020,7,2020-07,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,19272.62943,1.3918,
+2020-07-01,2020,7,2020-07,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,17749.30624,1.1147,
+2020-07-01,2020,7,2020-07,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1523.32319,4.7369,
+2020-07-01,2020,7,2020-07,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.33849,-0.1789,
+2020-07-01,2020,7,2020-07,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.09989,-0.2323,
+2020-07-01,2020,7,2020-07,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.2386,0.2942,
+2020-07-01,2020,7,2020-07,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,4.39706,7.2506,
+2020-07-01,2020,7,2020-07,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,43.57123,0.7234,
+2020-07-01,2020,7,2020-07,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,22.36878,3.9721,
+2020-08-01,2020,8,2020-08,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9132.03326,0.3534,
+2020-08-01,2020,8,2020-08,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,578.30597,0.3445,
+2020-08-01,2020,8,2020-08,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8553.72729,0.354,
+2020-08-01,2020,8,2020-08,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,20134.06112,4.4697,
+2020-08-01,2020,8,2020-08,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,18482.48552,4.1307,
+2020-08-01,2020,8,2020-08,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1651.5756,8.4193,
+2020-08-01,2020,8,2020-08,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.32995,-0.3652,
+2020-08-01,2020,8,2020-08,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.0911,-0.4186,
+2020-08-01,2020,8,2020-08,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.23885,0.1048,
+2020-08-01,2020,8,2020-08,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,4.41178,0.3348,
+2020-08-01,2020,8,2020-08,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,43.5518,-0.0446,
+2020-08-01,2020,8,2020-08,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,22.99411,2.7955,
+2020-09-01,2020,9,2020-09,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9241.29212,1.1964,
+2020-09-01,2020,9,2020-09,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,586.94212,1.4934,
+2020-09-01,2020,9,2020-09,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8654.35,1.1764,
+2020-09-01,2020,9,2020-09,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,19960.47401,-0.8622,
+2020-09-01,2020,9,2020-09,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,18287.99368,-1.0523,
+2020-09-01,2020,9,2020-09,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1672.48033,1.2657,
+2020-09-01,2020,9,2020-09,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.34238,0.5335,
+2020-09-01,2020,9,2020-09,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.10043,0.4462,
+2020-09-01,2020,9,2020-09,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.24195,1.2979,
+2020-09-01,2020,9,2020-09,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,4.61625,4.6346,
+2020-09-01,2020,9,2020-09,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,44.23465,1.5679,
+2020-09-01,2020,9,2020-09,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,22.99,-0.0179,
+2020-09-01,2020,9,2020-09,FY2020-21,7_upi_qr,7,UPI QR,group,70,604.07061,,
+2020-10-01,2020,10,2020-10,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9335.84906,1.0232,
+2020-10-01,2020,10,2020-10,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,594.19834,1.2363,
+2020-10-01,2020,10,2020-10,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8741.65072,1.0087,
+2020-10-01,2020,10,2020-10,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,20143.54171,0.9172,
+2020-10-01,2020,10,2020-10,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,18578.62438,1.5892,
+2020-10-01,2020,10,2020-10,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1564.91733,-6.4313,
+2020-10-01,2020,10,2020-10,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.34285,0.0201,
+2020-10-01,2020,10,2020-10,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.09881,-0.0771,
+2020-10-01,2020,10,2020-10,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.24404,0.8638,
+2020-10-01,2020,10,2020-10,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,4.89603,6.0608,
+2020-10-01,2020,10,2020-10,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,45.81333,3.5689,
+2020-10-01,2020,10,2020-10,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,26.05,13.3101,
+2020-10-01,2020,10,2020-10,FY2020-21,7_upi_qr,7,UPI QR,group,70,657.45,8.8366,
+2020-11-01,2020,11,2020-11,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9528.15024,2.0598,7.6421
+2020-11-01,2020,11,2020-11,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,601.13014,1.1666,10.48
+2020-11-01,2020,11,2020-11,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8927.0201,2.1205,7.4562
+2020-11-01,2020,11,2020-11,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,20443.15131,1.4874,18.4204
+2020-11-01,2020,11,2020-11,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,18857.67086,1.502,16.091
+2020-11-01,2020,11,2020-11,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1585.48045,1.314,55.5412
+2020-11-01,2020,11,2020-11,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.33848,-0.1865,0.8161
+2020-11-01,2020,11,2020-11,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.09282,-0.2854,-0.3647
+2020-11-01,2020,11,2020-11,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.24566,0.6638,12.1377
+2020-11-01,2020,11,2020-11,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,4.97186,1.5488,33.0488
+2020-11-01,2020,11,2020-11,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,45.7674,-0.1003,10.8612
+2020-11-01,2020,11,2020-11,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,30.4565,16.9155,91.0171
+2020-11-01,2020,11,2020-11,FY2020-21,7_upi_qr,7,UPI QR,group,70,697.81998,6.1404,
+2020-12-01,2020,12,2020-12,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9460.57,-0.7093,9.9226
+2020-12-01,2020,12,2020-12,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,603.97,0.4724,9.1522
+2020-12-01,2020,12,2020-12,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8856.6,-0.7888,9.9756
+2020-12-01,2020,12,2020-12,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,20819.05809,1.8388,18.1194
+2020-12-01,2020,12,2020-12,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,19156.35099,1.5839,15.2908
+2020-12-01,2020,12,2020-12,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1662.7071,4.8709,64.6654
+2020-12-01,2020,12,2020-12,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.33066,-0.3344,0.4599
+2020-12-01,2020,12,2020-12,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.0848,-0.3832,-0.5529
+2020-12-01,2020,12,2020-12,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.24586,0.0814,9.9553
+2020-12-01,2020,12,2020-12,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,4.9651,-0.136,30.3747
+2020-12-01,2020,12,2020-12,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,45.85005,0.1806,7.9135
+2020-12-01,2020,12,2020-12,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,31.99878,5.0639,86.7509
+2020-12-01,2020,12,2020-12,FY2020-21,7_upi_qr,7,UPI QR,group,70,752.30876,7.8084,
+2021-01-01,2021,1,2021-01,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9491.63,0.3283,8.7828
+2021-01-01,2021,1,2021-01,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,610.98,1.1607,8.8698
+2021-01-01,2021,1,2021-01,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8880.65,0.2715,8.7768
+2021-01-01,2021,1,2021-01,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,21212.15714,1.8882,20.6968
+2021-01-01,2021,1,2021-01,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,19461.04386,1.5906,17.4099
+2021-01-01,2021,1,2021-01,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1751.11328,5.317,75.2105
+2021-01-01,2021,1,2021-01,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.34216,0.4934,0.5163
+2021-01-01,2021,1,2021-01,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.09344,0.4144,-0.4371
+2021-01-01,2021,1,2021-01,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.24872,1.1633,9.3275
+2021-01-01,2021,1,2021-01,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,5.12004,3.1206,29.2544
+2021-01-01,2021,1,2021-01,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,46.54521,1.5162,8.4562
+2021-01-01,2021,1,2021-01,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,33.60228,5.0111,88.8945
+2021-01-01,2021,1,2021-01,FY2020-21,7_upi_qr,7,UPI QR,group,70,805.89199,7.1225,
+2021-02-01,2021,2,2021-02,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9556.49108,0.6834,8.5742
+2021-02-01,2021,2,2021-02,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,616.47183,0.8989,7.8538
+2021-02-01,2021,2,2021-02,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8940.01925,0.6685,8.6242
+2021-02-01,2021,2,2021-02,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,21556.23373,1.6221,19.0712
+2021-02-01,2021,2,2021-02,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,19732.42732,1.3945,17.3984
+2021-02-01,2021,2,2021-02,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1823.80641,4.1513,40.773
+2021-02-01,2021,2,2021-02,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.34924,0.3023,0.3567
+2021-02-01,2021,2,2021-02,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.0984,0.2369,-0.4748
+2021-02-01,2021,2,2021-02,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.25084,0.8524,7.8975
+2021-02-01,2021,2,2021-02,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,5.11761,-0.0475,26.3792
+2021-02-01,2021,2,2021-02,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,47.14916,1.2976,7.8755
+2021-02-01,2021,2,2021-02,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,34.92106,3.9247,84.1406
+2021-02-01,2021,2,2021-02,FY2020-21,7_upi_qr,7,UPI QR,group,70,875.85685,8.6817,
+2021-03-01,2021,3,2021-03,FY2020-21,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9602.50883,0.4815,8.343
+2021-03-01,2021,3,2021-03,FY2020-21,1_1_credit_cards,1.1,Credit Cards,instrument,59,620.49087,0.6519,7.4534
+2021-03-01,2021,3,2021-03,FY2020-21,1_2_debit_cards,1.2,Debit Cards,instrument,60,8982.01796,0.4698,8.4049
+2021-03-01,2021,3,2021-03,FY2020-21,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,21655.68018,0.4613,18.6506
+2021-03-01,2021,3,2021-03,FY2020-21,2_1_wallets,2.1,Wallets,instrument,62,19753.69089,0.1078,15.9741
+2021-03-01,2021,3,2021-03,FY2020-21,2_2_cards,2.2,Cards,instrument,63,1901.98929,4.2868,56.0555
+2021-03-01,2021,3,2021-03,FY2020-21,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.38588,1.5597,1.8054
+2021-03-01,2021,3,2021-03,FY2020-21,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.13575,1.7799,1.3356
+2021-03-01,2021,3,2021-03,FY2020-21,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.25013,-0.283,6.0008
+2021-03-01,2021,3,2021-03,FY2020-21,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,5.43055,6.115,31.8578
+2021-03-01,2021,3,2021-03,FY2020-21,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,47.20077,0.1095,6.4525
+2021-03-01,2021,3,2021-03,FY2020-21,6_bharat_qr,6,Bharat QR,group,69,35.6989,2.2274,76.0301
+2021-03-01,2021,3,2021-03,FY2020-21,7_upi_qr,7,UPI QR,group,70,925.21682,5.6356,
+2021-04-01,2021,4,2021-04,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9627.6042,0.2613,8.5648
+2021-04-01,2021,4,2021-04,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,622.6042,0.3406,8.543
+2021-04-01,2021,4,2021-04,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9005.0,0.2559,8.5663
+2021-04-01,2021,4,2021-04,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,12546.31678,-42.0645,-31.6007
+2021-04-01,2021,4,2021-04,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,10577.30467,-46.454,-38.3263
+2021-04-01,2021,4,2021-04,FY2021-22,2_2_cards,2.2,Cards,instrument,63,1969.01211,3.5238,65.1408
+2021-04-01,2021,4,2021-04,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.39801,0.5084,2.5032
+2021-04-01,2021,4,2021-04,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.14459,0.4139,2.0286
+2021-04-01,2021,4,2021-04,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.25342,1.3153,6.7032
+2021-04-01,2021,4,2021-04,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,5.51116,1.4844,41.2249
+2021-04-01,2021,4,2021-04,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,45.24724,-4.1388,3.0363
+2021-04-01,2021,4,2021-04,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,40.28012,12.8329,99.5053
+2021-04-01,2021,4,2021-04,FY2021-22,7_upi_qr,7,UPI QR,group,70,978.18719,5.7252,
+2021-05-01,2021,5,2021-05,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9643.64434,0.1666,8.0485
+2021-05-01,2021,5,2021-05,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,623.93434,0.2136,9.1178
+2021-05-01,2021,5,2021-05,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9019.71,0.1634,7.9753
+2021-05-01,2021,5,2021-05,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,12811.27482,2.1118,-31.8337
+2021-05-01,2021,5,2021-05,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,10742.51563,1.5619,-37.9073
+2021-05-01,2021,5,2021-05,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2068.75919,5.0658,38.5286
+2021-05-01,2021,5,2021-05,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.40271,0.196,2.619
+2021-05-01,2021,5,2021-05,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.14654,0.0909,2.0146
+2021-05-01,2021,5,2021-05,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.25617,1.0852,7.9793
+2021-05-01,2021,5,2021-05,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,5.6201,1.9767,41.1944
+2021-05-01,2021,5,2021-05,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,45.20278,-0.0983,4.5836
+2021-05-01,2021,5,2021-05,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,40.22,-0.1493,95.298
+2021-05-01,2021,5,2021-05,FY2021-22,7_upi_qr,7,UPI QR,group,70,990.22,1.2301,
+2021-06-01,2021,6,2021-06,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9684.46482,0.4233,7.2829
+2021-06-01,2021,6,2021-06,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,628.15482,0.6764,9.6466
+2021-06-01,2021,6,2021-06,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9056.31,0.4058,7.1227
+2021-06-01,2021,6,2021-06,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,12935.32547,0.9683,-31.9482
+2021-06-01,2021,6,2021-06,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,10848.94765,0.9908,-38.1954
+2021-06-01,2021,6,2021-06,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2086.37782,0.8517,43.45
+2021-06-01,2021,6,2021-06,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.39761,-0.2123,2.3448
+2021-06-01,2021,6,2021-06,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.13766,-0.4137,1.5622
+2021-06-01,2021,6,2021-06,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.25995,1.4756,9.2686
+2021-06-01,2021,6,2021-06,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,5.90959,5.151,44.1434
+2021-06-01,2021,6,2021-06,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,45.93265,1.6147,6.1823
+2021-06-01,2021,6,2021-06,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,40.83,1.5167,89.7815
+2021-06-01,2021,6,2021-06,FY2021-22,7_upi_qr,7,UPI QR,group,70,1026.76,3.6901,
+2021-07-01,2021,7,2021-07,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9690.43463,0.0616,6.4898
+2021-07-01,2021,7,2021-07,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,634.14463,0.9536,10.0333
+2021-07-01,2021,7,2021-07,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9056.29,-0.0002,6.2502
+2021-07-01,2021,7,2021-07,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13176.84094,1.8671,-31.6293
+2021-07-01,2021,7,2021-07,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,11032.88789,1.6955,-37.8405
+2021-07-01,2021,7,2021-07,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2143.95305,2.7596,40.7418
+2021-07-01,2021,7,2021-07,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.39957,0.0817,2.6119
+2021-07-01,2021,7,2021-07,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.13433,-0.1558,1.6401
+2021-07-01,2021,7,2021-07,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.26524,2.035,11.1651
+2021-07-01,2021,7,2021-07,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,6.1117,3.42,38.9951
+2021-07-01,2021,7,2021-07,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,46.07703,0.3143,5.751
+2021-07-01,2021,7,2021-07,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,42.51,4.1146,90.0417
+2021-07-01,2021,7,2021-07,FY2021-22,7_upi_qr,7,UPI QR,group,70,1078.8,5.0684,
+2021-08-01,2021,8,2021-08,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9771.97371,0.8414,7.0076
+2021-08-01,2021,8,2021-08,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,639.34371,0.8199,10.5546
+2021-08-01,2021,8,2021-08,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9132.63,0.843,6.7678
+2021-08-01,2021,8,2021-08,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13682.915264,3.8406,-32.041
+2021-08-01,2021,8,2021-08,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,11510.972084,4.3333,-37.7196
+2021-08-01,2021,8,2021-08,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2171.94318,1.3055,31.5073
+2021-08-01,2021,8,2021-08,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.40814,0.3571,3.3559
+2021-08-01,2021,8,2021-08,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.1357,0.0642,2.1328
+2021-08-01,2021,8,2021-08,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.27244,2.7145,14.0632
+2021-08-01,2021,8,2021-08,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,6.31055,3.2536,43.0386
+2021-08-01,2021,8,2021-08,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,48.16066,4.5221,10.5825
+2021-08-01,2021,8,2021-08,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,43.52,2.3759,89.2659
+2021-08-01,2021,8,2021-08,FY2021-22,7_upi_qr,7,UPI QR,group,70,1142.06,5.8639,
+2021-09-01,2021,9,2021-09,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9844.09075,0.738,6.5229
+2021-09-01,2021,9,2021-09,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,650.25075,1.706,10.7862
+2021-09-01,2021,9,2021-09,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9193.84,0.6702,6.2337
+2021-09-01,2021,9,2021-09,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13979.083474,2.1645,-29.9662
+2021-09-01,2021,9,2021-09,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,11714.342164,1.7667,-35.9452
+2021-09-01,2021,9,2021-09,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2264.74131,4.2726,35.4121
+2021-09-01,2021,9,2021-09,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.40982,0.0698,2.8791
+2021-09-01,2021,9,2021-09,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.13145,-0.199,1.4768
+2021-09-01,2021,9,2021-09,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.27837,2.1766,15.0527
+2021-09-01,2021,9,2021-09,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,6.49671,2.95,40.7357
+2021-09-01,2021,9,2021-09,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,49.76716,3.3357,12.5072
+2021-09-01,2021,9,2021-09,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,43.74,0.5055,90.2566
+2021-09-01,2021,9,2021-09,FY2021-22,7_upi_qr,7,UPI QR,group,70,1205.19,5.5277,99.5114
+2021-10-01,2021,10,2021-10,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9991.94808,1.502,7.0277
+2021-10-01,2021,10,2021-10,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,663.60808,2.0542,11.6812
+2021-10-01,2021,10,2021-10,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9328.34,1.4629,6.7114
+2021-10-01,2021,10,2021-10,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,14450.870367,3.3749,-28.2605
+2021-10-01,2021,10,2021-10,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,12025.104107,2.6528,-35.2745
+2021-10-01,2021,10,2021-10,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2425.76626,7.1101,55.0092
+2021-10-01,2021,10,2021-10,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.41471,0.2029,3.0672
+2021-10-01,2021,10,2021-10,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.12997,-0.0694,1.4847
+2021-10-01,2021,10,2021-10,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.28474,2.2883,16.6776
+2021-10-01,2021,10,2021-10,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,6.70515,3.2084,36.9508
+2021-10-01,2021,10,2021-10,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,51.55025,3.5829,12.5224
+2021-10-01,2021,10,2021-10,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,44.35,1.3946,70.2495
+2021-10-01,2021,10,2021-10,FY2021-22,7_upi_qr,7,UPI QR,group,70,1285.05,6.6263,95.4597
+2021-11-01,2021,11,2021-11,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10015.9,0.2397,5.119
+2021-11-01,2021,11,2021-11,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,675.83,1.8417,12.4266
+2021-11-01,2021,11,2021-11,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9340.07,0.1257,4.627
+2021-11-01,2021,11,2021-11,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,14832.432708,2.6404,-27.4455
+2021-11-01,2021,11,2021-11,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,12318.177548,2.4372,-34.6782
+2021-11-01,2021,11,2021-11,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2514.25516,3.6479,58.58
+2021-11-01,2021,11,2021-11,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.42,0.2191,3.486
+2021-11-01,2021,11,2021-11,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.13,0.0014,1.7766
+2021-11-01,2021,11,2021-11,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.29,1.8473,18.0493
+2021-11-01,2021,11,2021-11,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,6.93109,3.3696,39.4064
+2021-11-01,2021,11,2021-11,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,52.92,2.6571,15.6282
+2021-11-01,2021,11,2021-11,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,45.4137,2.3984,49.11
+2021-11-01,2021,11,2021-11,FY2021-22,7_upi_qr,7,UPI QR,group,70,1373.33,6.8698,96.8029
+2021-12-01,2021,12,2021-12,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10066.90393,0.5092,6.4091
+2021-12-01,2021,12,2021-12,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,689.48699,2.0208,14.1591
+2021-12-01,2021,12,2021-12,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9377.41694,0.3999,5.8806
+2021-12-01,2021,12,2021-12,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15111.896407,1.8841,-27.4132
+2021-12-01,2021,12,2021-12,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,12511.000397,1.5654,-34.6901
+2021-12-01,2021,12,2021-12,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2600.89601,3.446,56.4254
+2021-12-01,2021,12,2021-12,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.44787,1.1517,5.029
+2021-12-01,2021,12,2021-12,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.14829,0.8587,3.0454
+2021-12-01,2021,12,2021-12,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.29958,3.3034,21.8498
+2021-12-01,2021,12,2021-12,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,7.26949,4.8823,46.4118
+2021-12-01,2021,12,2021-12,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,54.98311,3.8985,19.9194
+2021-12-01,2021,12,2021-12,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,46.47262,2.3317,45.2325
+2021-12-01,2021,12,2021-12,FY2021-22,7_upi_qr,7,UPI QR,group,70,1440.10245,4.8621,91.4244
+2022-01-01,2022,1,2022-01,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10111.80652,0.446,6.5339
+2022-01-01,2022,1,2022-01,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,702.52069,1.8903,14.9826
+2022-01-01,2022,1,2022-01,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9409.28583,0.3398,5.9527
+2022-01-01,2022,1,2022-01,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15389.631398,1.8379,-27.449
+2022-01-01,2022,1,2022-01,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,12722.564608,1.691,-34.6255
+2022-01-01,2022,1,2022-01,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2667.06679,2.5442,52.3069
+2022-01-01,2022,1,2022-01,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.46006,0.498,5.0338
+2022-01-01,2022,1,2022-01,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.15587,0.3528,2.9822
+2022-01-01,2022,1,2022-01,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.30419,1.5388,22.3022
+2022-01-01,2022,1,2022-01,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,7.77807,6.9961,51.9142
+2022-01-01,2022,1,2022-01,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,56.19986,2.213,20.7425
+2022-01-01,2022,1,2022-01,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,46.966,1.0617,39.7703
+2022-01-01,2022,1,2022-01,FY2021-22,7_upi_qr,7,UPI QR,group,70,1521.05167,5.6211,88.7414
+2022-02-01,2022,2,2022-02,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10067.73528,-0.4358,5.3497
+2022-02-01,2022,2,2022-02,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,717.07614,2.0719,16.3194
+2022-02-01,2022,2,2022-02,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9350.65914,-0.6231,4.5933
+2022-02-01,2022,2,2022-02,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15652.057636,1.7052,-27.3896
+2022-02-01,2022,2,2022-02,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,12942.280326,1.727,-34.4111
+2022-02-01,2022,2,2022-02,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2709.77731,1.6014,48.5781
+2022-02-01,2022,2,2022-02,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.47105,0.4467,5.1851
+2022-02-01,2022,2,2022-02,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.16216,0.2918,3.0385
+2022-02-01,2022,2,2022-02,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.30889,1.5451,23.1422
+2022-02-01,2022,2,2022-02,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,8.50608,9.3598,66.212
+2022-02-01,2022,2,2022-02,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,58.3387,3.8058,23.7322
+2022-02-01,2022,2,2022-02,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,48.27104,2.7787,38.229
+2022-02-01,2022,2,2022-02,FY2021-22,7_upi_qr,7,UPI QR,group,70,1600.19118,5.2029,82.7001
+2022-03-01,2022,3,2022-03,FY2021-22,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9912.93037,-1.5376,3.2327
+2022-03-01,2022,3,2022-03,FY2021-22,1_1_credit_cards,1.1,Credit Cards,instrument,59,736.2733,2.6771,18.6598
+2022-03-01,2022,3,2022-03,FY2021-22,1_2_debit_cards,1.2,Debit Cards,instrument,60,9176.65707,-1.8609,2.167
+2022-03-01,2022,3,2022-03,FY2021-22,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15538.22465,-0.7273,-28.2487
+2022-03-01,2022,3,2022-03,FY2021-22,2_1_wallets,2.1,Wallets,instrument,62,12787.92624,-1.1926,-35.2631
+2022-03-01,2022,3,2022-03,FY2021-22,2_2_cards,2.2,Cards,instrument,63,2750.29841,1.4954,44.6012
+2022-03-01,2022,3,2022-03,FY2021-22,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.5174,1.8757,5.5124
+2022-03-01,2022,3,2022-03,FY2021-22,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.20241,1.8616,3.1212
+2022-03-01,2022,3,2022-03,FY2021-22,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.31499,1.9748,25.9305
+2022-03-01,2022,3,2022-03,FY2021-22,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,9.15834,7.6682,68.6448
+2022-03-01,2022,3,2022-03,FY2021-22,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,60.70142,4.05,28.6026
+2022-03-01,2022,3,2022-03,FY2021-22,6_bharat_qr,6,Bharat QR,group,69,49.71779,2.9971,39.2698
+2022-03-01,2022,3,2022-03,FY2021-22,7_upi_qr,7,UPI QR,group,70,1727.33615,7.9456,86.6953
+2022-04-01,2022,4,2022-04,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9956.8362,0.4429,3.4197
+2022-04-01,2022,4,2022-04,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,751.66069,2.0899,20.7285
+2022-04-01,2022,4,2022-04,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9205.17551,0.3108,2.2229
+2022-04-01,2022,4,2022-04,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15553.36233,0.0974,23.9676
+2022-04-01,2022,4,2022-04,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,12865.08654,0.6034,21.6292
+2022-04-01,2022,4,2022-04,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2688.27579,-2.2551,36.5292
+2022-04-01,2022,4,2022-04,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.51162,-0.2296,4.7377
+2022-04-01,2022,4,2022-04,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19312,-0.4218,2.2629
+2022-04-01,2022,4,2022-04,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.3185,1.1143,25.6807
+2022-04-01,2022,4,2022-04,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,9.4844,3.5603,72.0944
+2022-04-01,2022,4,2022-04,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,61.26144,0.9226,35.3927
+2022-04-01,2022,4,2022-04,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,40.90174,-17.7322,1.5432
+2022-04-01,2022,4,2022-04,FY2022-23,7_upi_qr,7,UPI QR,group,70,1807.21191,4.6242,84.7511
+2022-05-01,2022,5,2022-05,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9944.9826,-0.119,3.1247
+2022-05-01,2022,5,2022-05,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,768.7698,2.2762,23.2133
+2022-05-01,2022,5,2022-05,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9176.2128,-0.3146,1.7351
+2022-05-01,2022,5,2022-05,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15591.10008,0.2426,21.6983
+2022-05-01,2022,5,2022-05,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,12884.13208,0.148,19.9359
+2022-05-01,2022,5,2022-05,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2706.968,0.6953,30.8498
+2022-05-01,2022,5,2022-05,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.5225,0.4332,4.9856
+2022-05-01,2022,5,2022-05,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19987,0.3078,2.4845
+2022-05-01,2022,5,2022-05,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.32263,1.2967,25.9437
+2022-05-01,2022,5,2022-05,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,10.13016,6.8087,80.2488
+2022-05-01,2022,5,2022-05,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,61.69175,0.7024,36.4778
+2022-05-01,2022,5,2022-05,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,41.38046,1.1704,2.8853
+2022-05-01,2022,5,2022-05,FY2022-23,7_upi_qr,7,UPI QR,group,70,1881.16325,4.092,89.9743
+2022-06-01,2022,6,2022-06,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,9941.73721,-0.0326,2.6565
+2022-06-01,2022,6,2022-06,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,787.22617,2.4008,25.3236
+2022-06-01,2022,6,2022-06,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9154.51104,-0.2365,1.0843
+2022-06-01,2022,6,2022-06,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15608.66026,0.1126,20.6669
+2022-06-01,2022,6,2022-06,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,12932.46183,0.3751,19.2048
+2022-06-01,2022,6,2022-06,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2676.19843,-1.1367,28.2701
+2022-06-01,2022,6,2022-06,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.52841,0.2343,5.4554
+2022-06-01,2022,6,2022-06,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.20015,0.0127,2.9233
+2022-06-01,2022,6,2022-06,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.32826,1.745,26.2781
+2022-06-01,2022,6,2022-06,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,10.71631,5.7862,81.3376
+2022-06-01,2022,6,2022-06,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,65.9089,6.8358,43.4903
+2022-06-01,2022,6,2022-06,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,42.80392,3.4399,4.8345
+2022-06-01,2022,6,2022-06,FY2022-23,7_upi_qr,7,UPI QR,group,70,1952.91415,3.8142,90.2016
+2022-07-01,2022,7,2022-07,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10083.90216,1.43,4.0604
+2022-07-01,2022,7,2022-07,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,802.55722,1.9475,26.5574
+2022-07-01,2022,7,2022-07,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9281.34494,1.3855,2.4851
+2022-07-01,2022,7,2022-07,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15621.99358,0.0854,18.5564
+2022-07-01,2022,7,2022-07,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,12922.64829,-0.0759,17.1284
+2022-07-01,2022,7,2022-07,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2699.34529,0.8649,25.9051
+2022-07-01,2022,7,2022-07,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.53819,0.3868,5.7769
+2022-07-01,2022,7,2022-07,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.20232,0.0986,3.1855
+2022-07-01,2022,7,2022-07,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.33587,2.3183,26.6287
+2022-07-01,2022,7,2022-07,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,11.35832,5.991,85.8455
+2022-07-01,2022,7,2022-07,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,68.19488,3.4684,48.0019
+2022-07-01,2022,7,2022-07,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,45.21093,5.6233,6.3536
+2022-07-01,2022,7,2022-07,FY2022-23,7_upi_qr,7,UPI QR,group,70,2013.0164,3.0776,86.5977
+2022-08-01,2022,8,2022-08,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10130.17428,0.4589,3.6656
+2022-08-01,2022,8,2022-08,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,779.91469,-2.8213,21.9868
+2022-08-01,2022,8,2022-08,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9350.25959,0.7425,2.383
+2022-08-01,2022,8,2022-08,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15678.9977,0.3649,14.5881
+2022-08-01,2022,8,2022-08,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,12948.74645,0.202,12.4905
+2022-08-01,2022,8,2022-08,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2730.25125,1.1449,25.7055
+2022-08-01,2022,8,2022-08,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.53756,-0.0248,5.3743
+2022-08-01,2022,8,2022-08,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19801,-0.1957,2.9175
+2022-08-01,2022,8,2022-08,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.33955,1.0957,24.6329
+2022-08-01,2022,8,2022-08,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,11.70609,3.0618,85.5003
+2022-08-01,2022,8,2022-08,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,70.57534,3.4907,46.5415
+2022-08-01,2022,8,2022-08,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,47.49103,5.0432,9.1246
+2022-08-01,2022,8,2022-08,FY2022-23,7_upi_qr,7,UPI QR,group,70,2092.54445,3.9507,83.2254
+2022-09-01,2022,9,2022-09,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10162.39642,0.3181,3.2335
+2022-09-01,2022,9,2022-09,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,777.01744,-0.3715,19.495
+2022-09-01,2022,9,2022-09,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9385.37898,0.3756,2.0833
+2022-09-01,2022,9,2022-09,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15860.17604,1.1555,13.4565
+2022-09-01,2022,9,2022-09,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,13106.33138,1.217,11.8828
+2022-09-01,2022,9,2022-09,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2753.84466,0.8641,21.5964
+2022-09-01,2022,9,2022-09,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.54718,0.3791,5.7
+2022-09-01,2022,9,2022-09,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.20077,0.1256,3.2522
+2022-09-01,2022,9,2022-09,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34641,2.0203,24.4423
+2022-09-01,2022,9,2022-09,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,12.42683,6.157,91.2788
+2022-09-01,2022,9,2022-09,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,70.35017,-0.319,41.3586
+2022-09-01,2022,9,2022-09,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,48.64347,2.4266,11.2105
+2022-09-01,2022,9,2022-09,FY2022-23,7_upi_qr,7,UPI QR,group,70,2164.29798,3.429,79.5815
+2022-10-01,2022,10,2022-10,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10235.99418,0.7242,2.4424
+2022-10-01,2022,10,2022-10,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,793.67754,2.1441,19.6003
+2022-10-01,2022,10,2022-10,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9442.31664,0.6067,1.2218
+2022-10-01,2022,10,2022-10,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15985.59183,0.7908,10.6203
+2022-10-01,2022,10,2022-10,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,13195.92302,0.6836,9.7365
+2022-10-01,2022,10,2022-10,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2789.66881,1.3009,15.0016
+2022-10-01,2022,10,2022-10,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.55442,0.2842,5.7858
+2022-10-01,2022,10,2022-10,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.2015,0.0332,3.3583
+2022-10-01,2022,10,2022-10,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35292,1.8793,23.9447
+2022-10-01,2022,10,2022-10,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,12.90549,3.8518,92.4713
+2022-10-01,2022,10,2022-10,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,72.11092,2.5028,39.8847
+2022-10-01,2022,10,2022-10,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,47.19014,-2.9877,6.4039
+2022-10-01,2022,10,2022-10,FY2022-23,7_upi_qr,7,UPI QR,group,70,2253.22669,4.1089,75.3416
+2022-11-01,2022,11,2022-11,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10283.35199,0.4627,2.6703
+2022-11-01,2022,11,2022-11,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,806.06319,1.5605,19.2701
+2022-11-01,2022,11,2022-11,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9477.2888,0.3704,1.4691
+2022-11-01,2022,11,2022-11,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16098.31726,0.7052,8.5346
+2022-11-01,2022,11,2022-11,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,13269.83412,0.5601,7.7256
+2022-11-01,2022,11,2022-11,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2828.48314,1.3914,12.4979
+2022-11-01,2022,11,2022-11,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.55376,-0.0258,5.5273
+2022-11-01,2022,11,2022-11,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19796,-0.1608,3.1906
+2022-11-01,2022,11,2022-11,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.3558,0.816,22.6897
+2022-11-01,2022,11,2022-11,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,13.34449,3.4017,92.5309
+2022-11-01,2022,11,2022-11,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,73.51681,1.9496,38.9207
+2022-11-01,2022,11,2022-11,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,48.24864,2.2431,6.2425
+2022-11-01,2022,11,2022-11,FY2022-23,7_upi_qr,7,UPI QR,group,70,2302.87297,2.2033,67.6853
+2022-12-01,2022,12,2022-12,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10206.52766,-0.7471,1.387
+2022-12-01,2022,12,2022-12,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,811.86874,0.7202,17.7497
+2022-12-01,2022,12,2022-12,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9394.65892,-0.8719,0.1839
+2022-12-01,2022,12,2022-12,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16234.68954,0.8471,7.4299
+2022-12-01,2022,12,2022-12,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,13346.64359,0.5788,6.6793
+2022-12-01,2022,12,2022-12,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2888.04595,2.1058,11.0404
+2022-12-01,2022,12,2022-12,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.5652,0.448,4.7931
+2022-12-01,2022,12,2022-12,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19976,0.0819,2.3959
+2022-12-01,2022,12,2022-12,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36544,2.7094,21.9841
+2022-12-01,2022,12,2022-12,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.19271,6.3563,95.2367
+2022-12-01,2022,12,2022-12,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,75.50065,2.6985,37.3161
+2022-12-01,2022,12,2022-12,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,49.58536,2.7705,6.698
+2022-12-01,2022,12,2022-12,FY2022-23,7_upi_qr,7,UPI QR,group,70,2361.81825,2.5596,64.0035
+2023-01-01,2023,1,2023-01,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10280.33117,0.7231,1.6666
+2023-01-01,2023,1,2023-01,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,824.52029,1.5583,17.366
+2023-01-01,2023,1,2023-01,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9455.81088,0.6509,0.4945
+2023-01-01,2023,1,2023-01,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16029.29195,-1.2652,4.1564
+2023-01-01,2023,1,2023-01,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,13244.33825,-0.7665,4.1012
+2023-01-01,2023,1,2023-01,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2784.9537,-3.5696,4.4201
+2023-01-01,2023,1,2023-01,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57693,0.4573,4.7507
+2023-01-01,2023,1,2023-01,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.20814,0.381,2.4245
+2023-01-01,2023,1,2023-01,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36879,0.9167,21.2367
+2023-01-01,2023,1,2023-01,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.74548,3.8947,89.5776
+2023-01-01,2023,1,2023-01,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,76.57412,1.4218,36.2532
+2023-01-01,2023,1,2023-01,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,50.57494,1.9957,7.6842
+2023-01-01,2023,1,2023-01,FY2022-23,7_upi_qr,7,UPI QR,group,70,2442.34238,3.4094,60.5693
+2023-02-01,2023,2,2023-02,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10374.87305,0.9196,3.0507
+2023-02-01,2023,2,2023-02,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,833.65756,1.1082,16.2579
+2023-02-01,2023,2,2023-02,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9541.21549,0.9032,2.0379
+2023-02-01,2023,2,2023-02,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16109.65202,0.5013,2.9235
+2023-02-01,2023,2,2023-02,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,13335.09856,0.6853,3.0352
+2023-02-01,2023,2,2023-02,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2774.55346,-0.3734,2.3905
+2023-02-01,2023,2,2023-02,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.56879,-0.3159,3.9554
+2023-02-01,2023,2,2023-02,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.20723,-0.0412,2.0845
+2023-02-01,2023,2,2023-02,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36156,-1.9605,17.0514
+2023-02-01,2023,2,2023-02,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,15.5944,5.7572,83.3324
+2023-02-01,2023,2,2023-02,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,77.58264,1.3171,32.9866
+2023-02-01,2023,2,2023-02,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,52.2233,3.2592,8.1876
+2023-02-01,2023,2,2023-02,FY2022-23,7_upi_qr,7,UPI QR,group,70,2500.89414,2.3974,56.2872
+2023-03-01,2023,3,2023-03,FY2022-23,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10465.62002,0.8747,5.5754
+2023-03-01,2023,3,2023-03,FY2022-23,1_1_credit_cards,1.1,Credit Cards,instrument,59,853.03238,2.3241,15.8581
+2023-03-01,2023,3,2023-03,FY2022-23,1_2_debit_cards,1.2,Debit Cards,instrument,60,9612.58764,0.748,4.7504
+2023-03-01,2023,3,2023-03,FY2022-23,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16185.22038,0.4691,4.1639
+2023-03-01,2023,3,2023-03,FY2022-23,2_1_wallets,2.1,Wallets,instrument,62,13384.65346,0.3716,4.6663
+2023-03-01,2023,3,2023-03,FY2022-23,2_2_cards,2.2,Cards,instrument,63,2800.56692,0.9376,1.8277
+2023-03-01,2023,3,2023-03,FY2022-23,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.58534,0.6443,2.6988
+2023-03-01,2023,3,2023-03,FY2022-23,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.22743,0.9152,1.136
+2023-03-01,2023,3,2023-03,FY2022-23,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35791,-1.0095,13.6258
+2023-03-01,2023,3,2023-03,FY2022-23,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,16.10556,3.2778,75.8568
+2023-03-01,2023,3,2023-03,FY2022-23,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,77.89512,0.4028,28.325
+2023-03-01,2023,3,2023-03,FY2022-23,6_bharat_qr,6,Bharat QR,group,69,53.82044,3.0583,8.2519
+2023-03-01,2023,3,2023-03,FY2022-23,7_upi_qr,7,UPI QR,group,70,2563.7676,2.514,48.4232
+2023-04-01,2023,4,2023-04,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10535.24504,0.6653,5.8092
+2023-04-01,2023,4,2023-04,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,865.12698,1.4178,15.0954
+2023-04-01,2023,4,2023-04,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9670.11806,0.5985,5.0509
+2023-04-01,2023,4,2023-04,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16585.83726,2.4752,6.6383
+2023-04-01,2023,4,2023-04,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13338.66434,-0.3436,3.6811
+2023-04-01,2023,4,2023-04,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3247.17292,15.947,20.7902
+2023-04-01,2023,4,2023-04,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.553,-1.2509,1.6475
+2023-04-01,2023,4,2023-04,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19447,-1.4797,0.0616
+2023-04-01,2023,4,2023-04,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35853,0.1732,12.5683
+2023-04-01,2023,4,2023-04,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.27883,-11.3422,50.5507
+2023-04-01,2023,4,2023-04,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,78.37235,0.6127,27.931
+2023-04-01,2023,4,2023-04,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,54.35545,0.9941,32.8928
+2023-04-01,2023,4,2023-04,FY2023-24,7_upi_qr,7,UPI QR,group,70,2609.07677,1.7673,44.3703
+2023-05-01,2023,5,2023-05,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10616.73546,0.7735,6.7547
+2023-05-01,2023,5,2023-05,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,877.47311,1.4271,14.1399
+2023-05-01,2023,5,2023-05,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9739.26235,0.715,6.136
+2023-05-01,2023,5,2023-05,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16638.54803,0.3178,6.7182
+2023-05-01,2023,5,2023-05,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13373.56495,0.2616,3.7987
+2023-05-01,2023,5,2023-05,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3264.98308,0.5485,20.614
+2023-05-01,2023,5,2023-05,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.55796,0.1943,1.4057
+2023-05-01,2023,5,2023-05,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19541,0.0428,-0.2027
+2023-05-01,2023,5,2023-05,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36255,1.1212,12.3733
+2023-05-01,2023,5,2023-05,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.65633,2.6438,44.6801
+2023-05-01,2023,5,2023-05,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,79.60626,1.5744,29.0387
+2023-05-01,2023,5,2023-05,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,55.4543,2.0216,34.0108
+2023-05-01,2023,5,2023-05,FY2023-24,7_upi_qr,7,UPI QR,group,70,2667.57057,2.2419,41.8043
+2023-06-01,2023,6,2023-06,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10645.15487,0.2677,7.0754
+2023-06-01,2023,6,2023-06,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,886.82356,1.0656,12.6517
+2023-06-01,2023,6,2023-06,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9758.33131,0.1958,6.5959
+2023-06-01,2023,6,2023-06,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16709.13757,0.4243,7.0504
+2023-06-01,2023,6,2023-06,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13409.30037,0.2672,3.6871
+2023-06-01,2023,6,2023-06,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3299.8372,1.0675,23.3032
+2023-06-01,2023,6,2023-06,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.59146,1.3096,2.4937
+2023-06-01,2023,6,2023-06,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.22965,1.5596,1.3408
+2023-06-01,2023,6,2023-06,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36181,-0.2041,10.2206
+2023-06-01,2023,6,2023-06,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.95632,2.0468,39.566
+2023-06-01,2023,6,2023-06,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,80.93909,1.6743,22.8045
+2023-06-01,2023,6,2023-06,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,56.88369,2.5776,32.8936
+2023-06-01,2023,6,2023-06,FY2023-24,7_upi_qr,7,UPI QR,group,70,2720.15427,1.9712,39.2869
+2023-07-01,2023,7,2023-07,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10606.13777,-0.3665,5.1789
+2023-07-01,2023,7,2023-07,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,898.73251,1.3429,11.9836
+2023-07-01,2023,7,2023-07,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9707.40526,-0.5219,4.5905
+2023-07-01,2023,7,2023-07,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16646.89125,-0.3725,6.5606
+2023-07-01,2023,7,2023-07,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13678.38433,2.0067,5.8482
+2023-07-01,2023,7,2023-07,FY2023-24,2_2_cards,2.2,Cards,instrument,63,2968.5069,-10.0408,9.9714
+2023-07-01,2023,7,2023-07,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57038,-0.8134,1.2682
+2023-07-01,2023,7,2023-07,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.2148,-0.666,0.5667
+2023-07-01,2023,7,2023-07,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35558,-1.7219,5.8683
+2023-07-01,2023,7,2023-07,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,15.36551,2.7359,35.2798
+2023-07-01,2023,7,2023-07,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,81.22659,0.3552,19.1095
+2023-07-01,2023,7,2023-07,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,58.05513,2.0594,28.4095
+2023-07-01,2023,7,2023-07,FY2023-24,7_upi_qr,7,UPI QR,group,70,2807.25218,3.2019,39.455
+2023-08-01,2023,8,2023-08,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10693.35178,0.8223,5.5594
+2023-08-01,2023,8,2023-08,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,912.78257,1.5633,17.0362
+2023-08-01,2023,8,2023-08,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9780.56921,0.7537,4.6021
+2023-08-01,2023,8,2023-08,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16625.74453,-0.127,6.0383
+2023-08-01,2023,8,2023-08,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13483.90943,-1.4218,4.1329
+2023-08-01,2023,8,2023-08,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3141.8351,5.8389,15.0749
+2023-08-01,2023,8,2023-08,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57923,0.3443,1.6421
+2023-08-01,2023,8,2023-08,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.22529,0.4736,1.2411
+2023-08-01,2023,8,2023-08,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35394,-0.4612,4.238
+2023-08-01,2023,8,2023-08,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,15.2917,-0.4804,30.6303
+2023-08-01,2023,8,2023-08,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,82.46614,1.526,16.8484
+2023-08-01,2023,8,2023-08,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,58.99351,1.6164,24.2203
+2023-08-01,2023,8,2023-08,FY2023-24,7_upi_qr,7,UPI QR,group,70,2881.64224,2.6499,37.71
+2023-09-01,2023,9,2023-09,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10713.03683,0.1841,5.4184
+2023-09-01,2023,9,2023-09,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,930.17482,1.9054,19.7109
+2023-09-01,2023,9,2023-09,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9782.86201,0.0234,4.2351
+2023-09-01,2023,9,2023-09,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16718.12187,0.5556,5.4094
+2023-09-01,2023,9,2023-09,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13588.07087,0.7725,3.6756
+2023-09-01,2023,9,2023-09,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3130.051,-0.3751,13.6611
+2023-09-01,2023,9,2023-09,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.5794,0.0066,1.2649
+2023-09-01,2023,9,2023-09,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.22951,0.1896,1.3059
+2023-09-01,2023,9,2023-09,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34989,-1.1443,1.0046
+2023-09-01,2023,9,2023-09,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.8734,-2.7355,19.6878
+2023-09-01,2023,9,2023-09,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,83.03183,0.686,18.0265
+2023-09-01,2023,9,2023-09,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,59.81788,1.3974,22.9721
+2023-09-01,2023,9,2023-09,FY2023-24,7_upi_qr,7,UPI QR,group,70,2950.05751,2.3742,36.3055
+2023-10-01,2023,10,2023-10,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10748.81563,0.334,5.01
+2023-10-01,2023,10,2023-10,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,947.10817,1.8204,19.3316
+2023-10-01,2023,10,2023-10,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9801.70746,0.1926,3.8062
+2023-10-01,2023,10,2023-10,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16830.81747,0.6741,5.2874
+2023-10-01,2023,10,2023-10,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13668.03105,0.5885,3.5777
+2023-10-01,2023,10,2023-10,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3162.78642,1.0458,13.375
+2023-10-01,2023,10,2023-10,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.58164,0.0868,1.0656
+2023-10-01,2023,10,2023-10,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.23473,0.2341,1.5094
+2023-10-01,2023,10,2023-10,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34691,-0.8517,-1.7029
+2023-10-01,2023,10,2023-10,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,15.30287,2.8875,18.5764
+2023-10-01,2023,10,2023-10,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,83.48085,0.5408,15.7673
+2023-10-01,2023,10,2023-10,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,59.74796,-0.1169,26.6111
+2023-10-01,2023,10,2023-10,FY2023-24,7_upi_qr,7,UPI QR,group,70,3017.20198,2.276,33.9058
+2023-11-01,2023,11,2023-11,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10725.70823,-0.215,4.3017
+2023-11-01,2023,11,2023-11,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,960.01382,1.3626,19.0991
+2023-11-01,2023,11,2023-11,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9764.98674,-0.3746,3.0357
+2023-11-01,2023,11,2023-11,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16944.3055,0.6743,5.2551
+2023-11-01,2023,11,2023-11,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13758.2083,0.6598,3.6803
+2023-11-01,2023,11,2023-11,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3186.0972,0.737,12.6433
+2023-11-01,2023,11,2023-11,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57845,-0.1236,0.9668
+2023-11-01,2023,11,2023-11,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.23893,0.1879,1.864
+2023-11-01,2023,11,2023-11,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.33952,-2.1302,-4.5756
+2023-11-01,2023,11,2023-11,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,15.87203,3.7193,18.9407
+2023-11-01,2023,11,2023-11,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,84.32188,1.0075,14.6974
+2023-11-01,2023,11,2023-11,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,58.74077,-1.6857,21.746
+2023-11-01,2023,11,2023-11,FY2023-24,7_upi_qr,7,UPI QR,group,70,3087.38854,2.3262,34.0668
+2023-12-01,2023,12,2023-12,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10587.85305,-1.2853,3.7361
+2023-12-01,2023,12,2023-12,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,979.04611,1.9825,20.5917
+2023-12-01,2023,12,2023-12,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9608.80694,-1.5994,2.2795
+2023-12-01,2023,12,2023-12,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,17544.33937,3.5412,8.067
+2023-12-01,2023,12,2023-12,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,14293.00822,3.8871,7.0907
+2023-12-01,2023,12,2023-12,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3251.33115,2.0475,12.5789
+2023-12-01,2023,12,2023-12,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57901,0.0217,0.5384
+2023-12-01,2023,12,2023-12,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.23827,-0.0295,1.7506
+2023-12-01,2023,12,2023-12,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34074,0.3593,-6.759
+2023-12-01,2023,12,2023-12,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,16.88558,6.3858,18.9736
+2023-12-01,2023,12,2023-12,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,85.67404,1.6036,13.4746
+2023-12-01,2023,12,2023-12,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,59.56884,1.4097,20.1339
+2023-12-01,2023,12,2023-12,FY2023-24,7_upi_qr,7,UPI QR,group,70,3170.65667,2.697,34.2464
+2024-01-01,2024,1,2024-01,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10570.65802,-0.1624,2.8241
+2024-01-01,2024,1,2024-01,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,995.00257,1.6298,20.6765
+2024-01-01,2024,1,2024-01,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9575.65545,-0.345,1.2674
+2024-01-01,2024,1,2024-01,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,17676.26355,0.7519,10.2748
+2024-01-01,2024,1,2024-01,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,14396.9385,0.7271,8.7026
+2024-01-01,2024,1,2024-01,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3279.32505,0.861,17.7515
+2024-01-01,2024,1,2024-01,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57617,-0.1101,-0.0295
+2024-01-01,2024,1,2024-01,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.23613,-0.0956,1.2676
+2024-01-01,2024,1,2024-01,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34004,-0.2054,-7.7958
+2024-01-01,2024,1,2024-01,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,17.60454,4.2578,19.3894
+2024-01-01,2024,1,2024-01,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,85.93226,0.3014,12.221
+2024-01-01,2024,1,2024-01,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,60.03737,0.7865,18.7097
+2024-01-01,2024,1,2024-01,FY2023-24,7_upi_qr,7,UPI QR,group,70,3213.79274,1.3605,31.5865
+2024-02-01,2024,2,2024-02,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10612.7099,0.3978,2.2924
+2024-02-01,2024,2,2024-02,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,1006.00166,1.1054,20.6732
+2024-02-01,2024,2,2024-02,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9606.70824,0.3243,0.6864
+2024-02-01,2024,2,2024-02,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,17118.53335,-3.1552,6.2626
+2024-02-01,2024,2,2024-02,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13795.75809,-4.1758,3.4545
+2024-02-01,2024,2,2024-02,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3322.77526,1.325,19.7589
+2024-02-01,2024,2,2024-02,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57438,-0.0695,0.2176
+2024-02-01,2024,2,2024-02,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.23341,-0.1216,1.1861
+2024-02-01,2024,2,2024-02,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34097,0.2735,-5.6948
+2024-02-01,2024,2,2024-02,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,17.01087,-3.3723,9.0832
+2024-02-01,2024,2,2024-02,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,87.73202,2.0944,13.082
+2024-02-01,2024,2,2024-02,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,61.49634,2.4301,17.7565
+2024-02-01,2024,2,2024-02,FY2023-24,7_upi_qr,7,UPI QR,group,70,3371.8026,4.9166,34.8239
+2024-03-01,2024,3,2024-03,FY2023-24,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10667.22135,0.5136,1.9263
+2024-03-01,2024,3,2024-03,FY2023-24,1_1_credit_cards,1.1,Credit Cards,instrument,59,1018.02736,1.1954,19.3422
+2024-03-01,2024,3,2024-03,FY2023-24,1_2_debit_cards,1.2,Debit Cards,instrument,60,9649.19399,0.4423,0.3808
+2024-03-01,2024,3,2024-03,FY2023-24,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16743.62719,-2.1901,3.4501
+2024-03-01,2024,3,2024-03,FY2023-24,2_1_wallets,2.1,Wallets,instrument,62,13381.80355,-3.0006,-0.0213
+2024-03-01,2024,3,2024-03,FY2023-24,2_2_cards,2.2,Cards,instrument,63,3361.82364,1.1752,20.0408
+2024-03-01,2024,3,2024-03,FY2023-24,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57654,0.0839,-0.3404
+2024-03-01,2024,3,2024-03,FY2023-24,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.23052,-0.1294,0.1387
+2024-03-01,2024,3,2024-03,FY2023-24,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34602,1.4811,-3.3221
+2024-03-01,2024,3,2024-03,FY2023-24,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,17.55119,3.1763,8.976
+2024-03-01,2024,3,2024-03,FY2023-24,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,89.02926,1.4786,14.2938
+2024-03-01,2024,3,2024-03,FY2023-24,6_bharat_qr,6,Bharat QR,group,69,62.50196,1.6353,16.1305
+2024-03-01,2024,3,2024-03,FY2023-24,7_upi_qr,7,UPI QR,group,70,3434.92584,1.8721,33.9796
+2024-04-01,2024,4,2024-04,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10534.84678,-1.2409,-0.0038
+2024-04-01,2024,4,2024-04,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1025.39752,0.724,18.5257
+2024-04-01,2024,4,2024-04,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9509.44926,-1.4483,-1.6615
+2024-04-01,2024,4,2024-04,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,14716.82403,-12.1049,-11.2687
+2024-04-01,2024,4,2024-04,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,11294.82978,-15.5956,-15.3226
+2024-04-01,2024,4,2024-04,FY2024-25,2_2_cards,2.2,Cards,instrument,63,3421.99425,1.7898,5.3838
+2024-04-01,2024,4,2024-04,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57484,-0.066,0.8555
+2024-04-01,2024,4,2024-04,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.22669,-0.1717,1.4682
+2024-04-01,2024,4,2024-04,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34815,0.6156,-2.8952
+2024-04-01,2024,4,2024-04,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,17.43533,-0.6601,22.1062
+2024-04-01,2024,4,2024-04,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,88.38746,-0.7209,12.7789
+2024-04-01,2024,4,2024-04,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,60.7278,-2.8386,11.7235
+2024-04-01,2024,4,2024-04,FY2024-25,7_upi_qr,7,UPI QR,group,70,5597.20407,62.9498,114.5281
+2024-05-01,2024,5,2024-05,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10598.98663,0.6088,-0.1672
+2024-05-01,2024,5,2024-05,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1033.00377,0.7418,17.7248
+2024-05-01,2024,5,2024-05,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9565.98286,0.5945,-1.7792
+2024-05-01,2024,5,2024-05,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,14840.91664,0.8432,-10.804
+2024-05-01,2024,5,2024-05,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,11302.14024,0.0647,-15.4889
+2024-05-01,2024,5,2024-05,FY2024-25,2_2_cards,2.2,Cards,instrument,63,3538.7764,3.4127,8.3858
+2024-05-01,2024,5,2024-05,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57098,-0.1499,0.509
+2024-05-01,2024,5,2024-05,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.21595,-0.4823,0.9356
+2024-05-01,2024,5,2024-05,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35503,1.9762,-2.0742
+2024-05-01,2024,5,2024-05,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,15.69099,-10.0046,7.0595
+2024-05-01,2024,5,2024-05,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,88.04112,-0.3918,10.5957
+2024-05-01,2024,5,2024-05,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,61.20597,0.7874,10.3719
+2024-05-01,2024,5,2024-05,FY2024-25,7_upi_qr,7,UPI QR,group,70,5690.84478,1.673,113.3344
+2024-06-01,2024,6,2024-06,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10662.37008,0.598,0.1617
+2024-06-01,2024,6,2024-06,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1038.13018,0.4963,17.0616
+2024-06-01,2024,6,2024-06,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9624.2399,0.609,-1.3741
+2024-06-01,2024,6,2024-06,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15051.29887,1.4176,-9.9217
+2024-06-01,2024,6,2024-06,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,11375.61055,0.6501,-15.1663
+2024-06-01,2024,6,2024-06,FY2024-25,2_2_cards,2.2,Cards,instrument,63,3675.68832,3.8689,11.39
+2024-06-01,2024,6,2024-06,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.55951,-0.4461,-1.2329
+2024-06-01,2024,6,2024-06,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.21211,-0.1733,-0.7867
+2024-06-01,2024,6,2024-06,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.3474,-2.1491,-3.9828
+2024-06-01,2024,6,2024-06,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,15.24658,-2.8323,1.9407
+2024-06-01,2024,6,2024-06,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,89.66994,1.8501,10.7869
+2024-06-01,2024,6,2024-06,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,61.64285,0.7138,8.3665
+2024-06-01,2024,6,2024-06,FY2024-25,7_upi_qr,7,UPI QR,group,70,5770.15207,1.3936,112.1259
+2024-07-01,2024,7,2024-07,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10677.70726,0.1438,0.6748
+2024-07-01,2024,7,2024-07,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1045.68437,0.7277,16.351
+2024-07-01,2024,7,2024-07,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9632.02289,0.0809,-0.7765
+2024-07-01,2024,7,2024-07,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15211.22418,1.0625,-8.6242
+2024-07-01,2024,7,2024-07,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,11419.61772,0.3869,-16.5134
+2024-07-01,2024,7,2024-07,FY2024-25,2_2_cards,2.2,Cards,instrument,63,3791.60646,3.1536,27.7277
+2024-07-01,2024,7,2024-07,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.54966,-0.3848,-0.8061
+2024-07-01,2024,7,2024-07,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.20641,-0.2577,-0.3788
+2024-07-01,2024,7,2024-07,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34325,-1.1946,-3.4676
+2024-07-01,2024,7,2024-07,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.78495,-3.0278,-3.7783
+2024-07-01,2024,7,2024-07,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,89.71653,0.052,10.4522
+2024-07-01,2024,7,2024-07,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,61.86837,0.3658,6.5683
+2024-07-01,2024,7,2024-07,FY2024-25,7_upi_qr,7,UPI QR,group,70,5851.13612,1.4035,108.4293
+2024-08-01,2024,8,2024-08,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10739.73584,0.5809,0.4338
+2024-08-01,2024,8,2024-08,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1054.24368,0.8185,15.4978
+2024-08-01,2024,8,2024-08,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9685.49216,0.5551,-0.9721
+2024-08-01,2024,8,2024-08,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15182.13136,-0.1913,-8.683
+2024-08-01,2024,8,2024-08,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,11322.72196,-0.8485,-16.0279
+2024-08-01,2024,8,2024-08,FY2024-25,2_2_cards,2.2,Cards,instrument,63,3859.4094,1.7882,22.8393
+2024-08-01,2024,8,2024-08,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.545,-0.1828,-1.3271
+2024-08-01,2024,8,2024-08,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19849,-0.359,-1.2043
+2024-08-01,2024,8,2024-08,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34651,0.9497,-2.0992
+2024-08-01,2024,8,2024-08,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.49541,-1.9583,-5.2073
+2024-08-01,2024,8,2024-08,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,93.00689,3.6675,12.7819
+2024-08-01,2024,8,2024-08,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,63.97044,3.3976,8.4364
+2024-08-01,2024,8,2024-08,FY2024-25,7_upi_qr,7,UPI QR,group,70,5912.92586,1.056,105.1929
+2024-09-01,2024,9,2024-09,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10793.85203,0.5039,0.7544
+2024-09-01,2024,9,2024-09,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1061.03318,0.644,14.0681
+2024-09-01,2024,9,2024-09,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9732.81885,0.4886,-0.5115
+2024-09-01,2024,9,2024-09,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15339.9923,1.0398,-8.2433
+2024-09-01,2024,9,2024-09,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,11381.78748,0.5217,-16.2369
+2024-09-01,2024,9,2024-09,FY2024-25,2_2_cards,2.2,Cards,instrument,63,3958.20482,2.5599,26.4582
+2024-09-01,2024,9,2024-09,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.55078,0.2271,-1.1096
+2024-09-01,2024,9,2024-09,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.20152,0.1378,-1.2554
+2024-09-01,2024,9,2024-09,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.34926,0.7936,-0.1801
+2024-09-01,2024,9,2024-09,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.52891,0.2311,-2.3161
+2024-09-01,2024,9,2024-09,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,93.42792,0.4527,12.5206
+2024-09-01,2024,9,2024-09,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,64.16121,0.2982,7.2609
+2024-09-01,2024,9,2024-09,FY2024-25,7_upi_qr,7,UPI QR,group,70,6070.78667,2.6698,105.7854
+2024-10-01,2024,10,2024-10,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10878.00333,0.7796,1.2019
+2024-10-01,2024,10,2024-10,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1068.89655,0.7411,12.859
+2024-10-01,2024,10,2024-10,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9809.10678,0.7838,0.0755
+2024-10-01,2024,10,2024-10,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15503.37949,1.0651,-7.8869
+2024-10-01,2024,10,2024-10,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,11439.31353,0.5054,-16.3061
+2024-10-01,2024,10,2024-10,FY2024-25,2_2_cards,2.2,Cards,instrument,63,4064.06596,2.6745,28.4964
+2024-10-01,2024,10,2024-10,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.55675,0.234,-0.9641
+2024-10-01,2024,10,2024-10,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.20647,0.2248,-1.2646
+2024-10-01,2024,10,2024-10,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35028,0.292,0.9714
+2024-10-01,2024,10,2024-10,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.50704,-0.1505,-5.2005
+2024-10-01,2024,10,2024-10,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,95.09265,1.7818,13.9095
+2024-10-01,2024,10,2024-10,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,64.31243,0.2357,7.6395
+2024-10-01,2024,10,2024-10,FY2024-25,7_upi_qr,7,UPI QR,group,70,6168.51592,1.6098,104.4449
+2024-11-01,2024,11,2024-11,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10868.11477,-0.0909,1.3277
+2024-11-01,2024,11,2024-11,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1072.3971,0.3275,11.7064
+2024-11-01,2024,11,2024-11,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9795.71767,-0.1365,0.3147
+2024-11-01,2024,11,2024-11,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,15627.19678,0.7986,-7.7732
+2024-11-01,2024,11,2024-11,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,11463.53382,0.2117,-16.6786
+2024-11-01,2024,11,2024-11,FY2024-25,2_2_cards,2.2,Cards,instrument,63,4163.66296,2.4507,30.6822
+2024-11-01,2024,11,2024-11,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.55179,-0.194,-1.034
+2024-11-01,2024,11,2024-11,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19878,-0.3485,-1.7933
+2024-11-01,2024,11,2024-11,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35301,0.7794,3.9733
+2024-11-01,2024,11,2024-11,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.51783,0.0744,-8.532
+2024-11-01,2024,11,2024-11,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,96.90872,1.9098,14.9271
+2024-11-01,2024,11,2024-11,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,63.59691,-1.1126,8.2671
+2024-11-01,2024,11,2024-11,FY2024-25,7_upi_qr,7,UPI QR,group,70,6261.79913,1.5122,102.8186
+2024-12-01,2024,12,2024-12,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10990.03959,1.1219,3.7986
+2024-12-01,2024,12,2024-12,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1080.55905,0.7611,10.3686
+2024-12-01,2024,12,2024-12,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9909.48054,1.1614,3.1291
+2024-12-01,2024,12,2024-12,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13272.1871,-15.0699,-24.3506
+2024-12-01,2024,12,2024-12,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,8907.25109,-22.2993,-37.6811
+2024-12-01,2024,12,2024-12,FY2024-25,2_2_cards,2.2,Cards,instrument,63,4364.93601,4.834,34.2507
+2024-12-01,2024,12,2024-12,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.54788,-0.1532,-1.2071
+2024-12-01,2024,12,2024-12,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.18935,-0.4289,-2.1856
+2024-12-01,2024,12,2024-12,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35853,1.5637,5.221
+2024-12-01,2024,12,2024-12,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.76237,1.6844,-12.5741
+2024-12-01,2024,12,2024-12,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,100.00549,3.1956,16.7279
+2024-12-01,2024,12,2024-12,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,63.82626,0.3606,7.1471
+2024-12-01,2024,12,2024-12,FY2024-25,7_upi_qr,7,UPI QR,group,70,6335.29503,1.1737,99.8102
+2025-01-01,2025,1,2025-01,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10909.12461,-0.7363,3.2019
+2025-01-01,2025,1,2025-01,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1088.73184,0.7563,9.42
+2025-01-01,2025,1,2025-01,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9820.39277,-0.899,2.5558
+2025-01-01,2025,1,2025-01,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13466.31965,1.4627,-23.8169
+2025-01-01,2025,1,2025-01,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,8957.72932,0.5667,-37.7803
+2025-01-01,2025,1,2025-01,FY2024-25,2_2_cards,2.2,Cards,instrument,63,4508.59033,3.2911,37.4853
+2025-01-01,2025,1,2025-01,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57113,0.9125,-0.1956
+2025-01-01,2025,1,2025-01,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.21312,1.0857,-1.029
+2025-01-01,2025,1,2025-01,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35801,-0.145,5.2847
+2025-01-01,2025,1,2025-01,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.73899,-0.1584,-16.2773
+2025-01-01,2025,1,2025-01,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,103.5273,3.5216,20.4755
+2025-01-01,2025,1,2025-01,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,64.43092,0.9474,7.318
+2025-01-01,2025,1,2025-01,FY2024-25,7_upi_qr,7,UPI QR,group,70,6401.64702,1.0473,99.1929
+2025-02-01,2025,2,2025-02,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,10949.92101,0.374,3.1774
+2025-02-01,2025,2,2025-02,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1093.15356,0.4061,8.6632
+2025-02-01,2025,2,2025-02,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9856.76745,0.3704,2.603
+2025-02-01,2025,2,2025-02,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13619.30943,1.1361,-20.4411
+2025-02-01,2025,2,2025-02,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,9006.42733,0.5436,-34.716
+2025-02-01,2025,2,2025-02,FY2024-25,2_2_cards,2.2,Cards,instrument,63,4612.8821,2.3132,38.8262
+2025-02-01,2025,2,2025-02,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.57563,0.175,0.0486
+2025-02-01,2025,2,2025-02,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.21547,0.1062,-0.8033
+2025-02-01,2025,2,2025-02,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36016,0.6005,5.6281
+2025-02-01,2025,2,2025-02,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.67966,-0.4025,-13.7042
+2025-02-01,2025,2,2025-02,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,107.17514,3.5236,22.1619
+2025-02-01,2025,2,2025-02,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,65.48149,1.6305,6.4803
+2025-02-01,2025,2,2025-02,FY2024-25,7_upi_qr,7,UPI QR,group,70,6496.9128,1.4881,92.6837
+2025-03-01,2025,3,2025-03,FY2024-25,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11006.97107,0.521,3.185
+2025-03-01,2025,3,2025-03,FY2024-25,1_1_credit_cards,1.1,Credit Cards,instrument,59,1098.84686,0.5208,7.9388
+2025-03-01,2025,3,2025-03,FY2024-25,1_2_debit_cards,1.2,Debit Cards,instrument,60,9908.12421,0.521,2.6834
+2025-03-01,2025,3,2025-03,FY2024-25,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13401.4594,-1.5996,-19.9608
+2025-03-01,2025,3,2025-03,FY2024-25,2_1_wallets,2.1,Wallets,instrument,62,8678.43982,-3.6417,-35.1475
+2025-03-01,2025,3,2025-03,FY2024-25,2_2_cards,2.2,Cards,instrument,63,4723.01958,2.3876,40.4898
+2025-03-01,2025,3,2025-03,FY2024-25,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.55885,-0.6515,-0.6866
+2025-03-01,2025,3,2025-03,FY2024-25,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.19669,-0.8477,-1.5167
+2025-03-01,2025,3,2025-03,FY2024-25,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36216,0.5553,4.6645
+2025-03-01,2025,3,2025-03,FY2024-25,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.81883,0.948,-15.5679
+2025-03-01,2025,3,2025-03,FY2024-25,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,110.98051,3.5506,24.6562
+2025-03-01,2025,3,2025-03,FY2024-25,6_bharat_qr,6,Bharat QR,group,69,67.18039,2.5945,7.4853
+2025-03-01,2025,3,2025-03,FY2024-25,7_upi_qr,7,UPI QR,group,70,6579.29517,1.268,91.5411
+2025-04-01,2025,4,2025-04,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11064.208,0.52,5.0249
+2025-04-01,2025,4,2025-04,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1104.37069,0.5027,7.7017
+2025-04-01,2025,4,2025-04,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,9959.83731,0.5219,4.7362
+2025-04-01,2025,4,2025-04,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13449.86202,0.3612,-8.6089
+2025-04-01,2025,4,2025-04,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,8724.35685,0.5291,-22.758
+2025-04-01,2025,4,2025-04,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4725.50517,0.0526,38.0921
+2025-04-01,2025,4,2025-04,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.55031,-0.3337,-0.9527
+2025-04-01,2025,4,2025-04,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.18833,-0.3806,-1.7227
+2025-04-01,2025,4,2025-04,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36198,-0.0497,3.9724
+2025-04-01,2025,4,2025-04,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.73668,-0.5544,-15.4781
+2025-04-01,2025,4,2025-04,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,112.83266,1.6689,27.6569
+2025-04-01,2025,4,2025-04,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,66.63778,-0.8077,9.7319
+2025-04-01,2025,4,2025-04,FY2025-26,7_upi_qr,7,UPI QR,group,70,6623.84943,0.6772,18.3421
+2025-05-01,2025,5,2025-05,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11114.1937,0.4518,4.8609
+2025-05-01,2025,5,2025-05,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1110.49553,0.5546,7.5016
+2025-05-01,2025,5,2025-05,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10003.69817,0.4404,4.5757
+2025-05-01,2025,5,2025-05,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13518.32514,0.509,-8.9118
+2025-05-01,2025,5,2025-05,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,8696.94205,-0.3142,-23.0505
+2025-05-01,2025,5,2025-05,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4821.38309,2.0289,36.2444
+2025-05-01,2025,5,2025-05,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.56929,0.7442,-0.0657
+2025-05-01,2025,5,2025-05,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.21339,1.1452,-0.1155
+2025-05-01,2025,5,2025-05,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.3559,-1.6797,0.245
+2025-05-01,2025,5,2025-05,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.78043,0.2969,-5.8031
+2025-05-01,2025,5,2025-05,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,115.81161,2.6401,31.5426
+2025-05-01,2025,5,2025-05,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,66.42075,-0.3257,8.5201
+2025-05-01,2025,5,2025-05,FY2025-26,7_upi_qr,7,UPI QR,group,70,6697.29906,1.1089,17.6855
+2025-06-01,2025,6,2025-06,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11161.49776,0.4256,4.6812
+2025-06-01,2025,6,2025-06,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1109.69493,-0.0721,6.8936
+2025-06-01,2025,6,2025-06,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10051.80283,0.4809,4.4426
+2025-06-01,2025,6,2025-06,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13520.64609,0.0172,-10.1696
+2025-06-01,2025,6,2025-06,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,8681.91509,-0.1728,-23.6796
+2025-06-01,2025,6,2025-06,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4838.731,0.3598,31.6415
+2025-06-01,2025,6,2025-06,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.50897,-2.3477,-1.9746
+2025-06-01,2025,6,2025-06,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.15151,-2.7957,-2.7395
+2025-06-01,2025,6,2025-06,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35746,0.4383,2.8958
+2025-06-01,2025,6,2025-06,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.59218,-1.2736,-4.2921
+2025-06-01,2025,6,2025-06,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,117.82954,1.7424,31.4036
+2025-06-01,2025,6,2025-06,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,66.99048,0.8578,8.6752
+2025-06-01,2025,6,2025-06,FY2025-26,7_upi_qr,7,UPI QR,group,70,6781.60811,1.2589,17.5291
+2025-07-01,2025,7,2025-07,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11245.35309,0.7513,5.3162
+2025-07-01,2025,7,2025-07,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1118.07972,0.7556,6.9233
+2025-07-01,2025,7,2025-07,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10127.27337,0.7508,5.1417
+2025-07-01,2025,7,2025-07,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,13746.52708,1.6706,-9.6291
+2025-07-01,2025,7,2025-07,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,8870.15828,2.1682,-22.3253
+2025-07-01,2025,7,2025-07,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4876.3688,0.7778,28.6096
+2025-07-01,2025,7,2025-07,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.49315,-0.6305,-2.2164
+2025-07-01,2025,7,2025-07,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.13388,-0.8194,-3.2872
+2025-07-01,2025,7,2025-07,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35927,0.5064,4.6672
+2025-07-01,2025,7,2025-07,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.66668,0.5105,-0.7999
+2025-07-01,2025,7,2025-07,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,119.1308,1.1044,32.7858
+2025-07-01,2025,7,2025-07,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,66.41351,-0.8613,7.3465
+2025-07-01,2025,7,2025-07,FY2025-26,7_upi_qr,7,UPI QR,group,70,6880.30939,1.4554,17.5893
+2025-08-01,2025,8,2025-08,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11305.38042,0.5338,5.2668
+2025-08-01,2025,8,2025-08,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1124.95592,0.615,6.7074
+2025-08-01,2025,8,2025-08,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10180.4245,0.5248,5.11
+2025-08-01,2025,8,2025-08,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,14584.13114,6.0932,-3.9388
+2025-08-01,2025,8,2025-08,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,9692.18102,9.2673,-14.4006
+2025-08-01,2025,8,2025-08,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4891.95012,0.3195,26.7539
+2025-08-01,2025,8,2025-08,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.48618,-0.2796,-2.3112
+2025-08-01,2025,8,2025-08,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.12411,-0.4579,-3.3832
+2025-08-01,2025,8,2025-08,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36207,0.7794,4.4905
+2025-08-01,2025,8,2025-08,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.71422,0.3241,1.5095
+2025-08-01,2025,8,2025-08,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,119.64613,0.4326,28.6422
+2025-08-01,2025,8,2025-08,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,65.73082,-1.0279,2.7519
+2025-08-01,2025,8,2025-08,FY2025-26,7_upi_qr,7,UPI QR,group,70,6977.47231,1.4122,18.0037
+2025-09-01,2025,9,2025-09,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11383.1603,0.688,5.4597
+2025-09-01,2025,9,2025-09,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1135.0724,0.8993,6.978
+2025-09-01,2025,9,2025-09,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10248.0879,0.6646,5.2941
+2025-09-01,2025,9,2025-09,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,16180.40308,10.9453,5.4786
+2025-09-01,2025,9,2025-09,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,11478.95385,18.4352,0.8537
+2025-09-01,2025,9,2025-09,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4701.44923,-3.8942,18.7773
+2025-09-01,2025,9,2025-09,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.48679,0.0245,-2.5086
+2025-09-01,2025,9,2025-09,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.12147,-0.1243,-3.6361
+2025-09-01,2025,9,2025-09,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36532,0.8976,4.5983
+2025-09-01,2025,9,2025-09,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.59945,-0.78,0.4855
+2025-09-01,2025,9,2025-09,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,121.16102,1.2661,29.684
+2025-09-01,2025,9,2025-09,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,60.70528,-7.6456,-5.3863
+2025-09-01,2025,9,2025-09,FY2025-26,7_upi_qr,7,UPI QR,group,70,7089.7474,1.6091,16.7847
+2025-10-01,2025,10,2025-10,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11412.8379,0.2607,4.9167
+2025-10-01,2025,10,2025-10,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1141.33565,0.5518,6.777
+2025-10-01,2025,10,2025-10,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10271.50225,0.2285,4.7139
+2025-10-01,2025,10,2025-10,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,17710.94804,9.4593,14.2393
+2025-10-01,2025,10,2025-10,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,12993.66441,13.1955,13.5878
+2025-10-01,2025,10,2025-10,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4717.28363,0.3368,16.073
+2025-10-01,2025,10,2025-10,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.49609,0.374,-2.3725
+2025-10-01,2025,10,2025-10,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.12884,0.3474,-3.5183
+2025-10-01,2025,10,2025-10,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.36725,0.5283,4.8447
+2025-10-01,2025,10,2025-10,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.64566,0.3165,0.9555
+2025-10-01,2025,10,2025-10,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,123.08241,1.5858,29.4342
+2025-10-01,2025,10,2025-10,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,60.47707,-0.3759,-5.9636
+2025-10-01,2025,10,2025-10,FY2025-26,7_upi_qr,7,UPI QR,group,70,7174.33868,1.1931,16.3057
+2025-11-01,2025,11,2025-11,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11467.04776,0.475,5.5109
+2025-11-01,2025,11,2025-11,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1150.01607,0.7605,7.2379
+2025-11-01,2025,11,2025-11,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10317.03169,0.4433,5.3219
+2025-11-01,2025,11,2025-11,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,19107.1291,7.8832,22.2684
+2025-11-01,2025,11,2025-11,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,14410.18285,10.9016,25.7045
+2025-11-01,2025,11,2025-11,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4696.94625,-0.4311,12.808
+2025-11-01,2025,11,2025-11,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.50622,0.4058,-1.7858
+2025-11-01,2025,11,2025-11,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.13392,0.2386,-2.9498
+2025-11-01,2025,11,2025-11,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.3723,1.3751,5.4644
+2025-11-01,2025,11,2025-11,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.27193,-2.5518,-1.6938
+2025-11-01,2025,11,2025-11,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,112.53425,-8.57,16.124
+2025-11-01,2025,11,2025-11,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,59.52557,-1.5733,-6.4018
+2025-11-01,2025,11,2025-11,FY2025-26,7_upi_qr,7,UPI QR,group,70,7281.995555,1.5006,16.2924
+2025-12-01,2025,12,2025-12,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11501.3758,0.2994,4.6527
+2025-12-01,2025,12,2025-12,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1157.91713,0.687,7.1591
+2025-12-01,2025,12,2025-12,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10343.45867,0.2561,4.3794
+2025-12-01,2025,12,2025-12,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,20873.16385,9.2428,57.27
+2025-12-01,2025,12,2025-12,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,16170.73318,12.2174,81.5457
+2025-12-01,2025,12,2025-12,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4702.43067,0.1168,7.7319
+2025-12-01,2025,12,2025-12,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.50479,-0.0571,-1.6912
+2025-12-01,2025,12,2025-12,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.13149,-0.1139,-2.6428
+2025-12-01,2025,12,2025-12,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.3733,0.2686,4.1196
+2025-12-01,2025,12,2025-12,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,14.14547,-0.8861,-4.1789
+2025-12-01,2025,12,2025-12,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,114.74672,1.966,14.7404
+2025-12-01,2025,12,2025-12,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,58.9022,-1.0472,-7.7148
+2025-12-01,2025,12,2025-12,FY2025-26,7_upi_qr,7,UPI QR,group,70,7313.65285,0.4347,15.443
+2026-01-01,2026,1,2026-01,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11544.09367,0.3714,5.8205
+2026-01-01,2026,1,2026-01,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1166.52407,0.7433,7.1452
+2026-01-01,2026,1,2026-01,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10377.5696,0.3298,5.6737
+2026-01-01,2026,1,2026-01,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,22053.37867,5.6542,63.7669
+2026-01-01,2026,1,2026-01,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,17268.45483,6.7883,92.7771
+2026-01-01,2026,1,2026-01,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4784.92384,1.7543,6.129
+2026-01-01,2026,1,2026-01,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.51604,0.4491,-2.1426
+2026-01-01,2026,1,2026-01,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.13698,0.2576,-3.4404
+2026-01-01,2026,1,2026-01,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.37906,1.543,5.8797
+2026-01-01,2026,1,2026-01,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,13.91526,-1.6274,-5.5888
+2026-01-01,2026,1,2026-01,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,115.4521,0.6147,11.5185
+2026-01-01,2026,1,2026-01,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,58.43742,-0.7891,-9.3022
+2026-01-01,2026,1,2026-01,FY2025-26,7_upi_qr,7,UPI QR,group,70,7383.8038,0.9592,15.3423
+2026-02-01,2026,2,2026-02,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11594.712,0.4385,5.8885
+2026-02-01,2026,2,2026-02,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1177.045,0.9019,7.6743
+2026-02-01,2026,2,2026-02,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10417.667,0.3864,5.6905
+2026-02-01,2026,2,2026-02,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,22672.92967,2.8093,66.4764
+2026-02-01,2026,2,2026-02,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,17930.53467,3.834,99.086
+2026-02-01,2026,2,2026-02,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4742.395,-0.8888,2.8076
+2026-02-01,2026,2,2026-02,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.529,0.5151,-1.8104
+2026-02-01,2026,2,2026-02,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.151,0.6561,-2.91
+2026-02-01,2026,2,2026-02,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.378,-0.2796,4.9534
+2026-02-01,2026,2,2026-02,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,13.895,-0.1456,-5.3452
+2026-02-01,2026,2,2026-02,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,116.649,1.0367,8.8396
+2026-02-01,2026,2,2026-02,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,58.974,0.9182,-9.9379
+2026-02-01,2026,2,2026-02,FY2025-26,7_upi_qr,7,UPI QR,group,70,7542.037,2.143,16.0865
+2026-03-01,2026,3,2026-03,FY2025-26,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11632.02358,0.3218,5.6787
+2026-03-01,2026,3,2026-03,FY2025-26,1_1_credit_cards,1.1,Credit Cards,instrument,59,1186.337,0.7894,7.962
+2026-03-01,2026,3,2026-03,FY2025-26,1_2_debit_cards,1.2,Debit Cards,instrument,60,10445.68658,0.269,5.4255
+2026-03-01,2026,3,2026-03,FY2025-26,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,22992.544,1.4097,71.5675
+2026-03-01,2026,3,2026-03,FY2025-26,2_1_wallets,2.1,Wallets,instrument,62,18253.415,1.8007,110.3306
+2026-03-01,2026,3,2026-03,FY2025-26,2_2_cards,2.2,Cards,instrument,63,4739.129,-0.0689,0.3411
+2026-03-01,2026,3,2026-03,FY2025-26,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.536,0.2768,-0.893
+2026-03-01,2026,3,2026-03,FY2025-26,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.158,0.3254,-1.7613
+2026-03-01,2026,3,2026-03,FY2025-26,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.378,0.0,4.3738
+2026-03-01,2026,3,2026-03,FY2025-26,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,13.899,0.0288,-6.2072
+2026-03-01,2026,3,2026-03,FY2025-26,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,117.694,0.8958,6.0493
+2026-03-01,2026,3,2026-03,FY2025-26,6_bharat_qr,6,Bharat QR,group,69,56.33,-4.4833,-16.1511
+2026-03-01,2026,3,2026-03,FY2025-26,7_upi_qr,7,UPI QR,group,70,7612.174,0.9299,15.6989
+2026-04-01,2026,4,2026-04,FY2026-27,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11431.2954,-1.7257,3.3178
+2026-04-01,2026,4,2026-04,FY2026-27,1_1_credit_cards,1.1,Credit Cards,instrument,59,1194.5916,0.6958,8.1694
+2026-04-01,2026,4,2026-04,FY2026-27,1_2_debit_cards,1.2,Debit Cards,instrument,60,10236.7038,-2.0007,2.7798
+2026-04-01,2026,4,2026-04,FY2026-27,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,23185.468,0.8391,72.3844
+2026-04-01,2026,4,2026-04,FY2026-27,2_1_wallets,2.1,Wallets,instrument,62,18390.921,0.7533,110.7997
+2026-04-01,2026,4,2026-04,FY2026-27,2_2_cards,2.2,Cards,instrument,63,4794.547,1.1694,1.461
+2026-04-01,2026,4,2026-04,FY2026-27,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.541,0.1972,-0.3651
+2026-04-01,2026,4,2026-04,FY2026-27,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.164,0.278,-1.1118
+2026-04-01,2026,4,2026-04,FY2026-27,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.377,-0.2646,4.1494
+2026-04-01,2026,4,2026-04,FY2026-27,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,13.68,-1.5757,-7.1704
+2026-04-01,2026,4,2026-04,FY2026-27,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,114.4744,-2.7356,1.455
+2026-04-01,2026,4,2026-04,FY2026-27,6_bharat_qr,6,Bharat QR,group,69,56.1701,-0.2839,-15.7083
+2026-04-01,2026,4,2026-04,FY2026-27,7_upi_qr,7,UPI QR,group,70,7708.292,1.2627,16.3718
+2026-05-01,2026,5,2026-05,FY2026-27,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11483.6243,0.4578,3.324
+2026-05-01,2026,5,2026-05,FY2026-27,1_1_credit_cards,1.1,Credit Cards,instrument,59,1204.5412,0.8329,8.4688
+2026-05-01,2026,5,2026-05,FY2026-27,1_2_debit_cards,1.2,Debit Cards,instrument,60,10279.0831,0.414,2.7528
+2026-05-01,2026,5,2026-05,FY2026-27,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,22221.6555,-4.157,64.3817
+2026-05-01,2026,5,2026-05,FY2026-27,2_1_wallets,2.1,Wallets,instrument,62,17596.0444,-4.3221,102.3245
+2026-05-01,2026,5,2026-05,FY2026-27,2_2_cards,2.2,Cards,instrument,63,4625.6111,-3.5235,-4.0605
+2026-05-01,2026,5,2026-05,FY2026-27,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.5392,-0.0708,-1.1711
+2026-05-01,2026,5,2026-05,FY2026-27,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.1675,0.1617,-2.0733
+2026-05-01,2026,5,2026-05,FY2026-27,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.3717,-1.4058,4.4394
+2026-05-01,2026,5,2026-05,FY2026-27,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,13.5824,-0.7135,-8.1055
+2026-05-01,2026,5,2026-05,FY2026-27,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,115.2528,0.68,-0.4825
+2026-05-01,2026,5,2026-05,FY2026-27,6_bharat_qr,6,Bharat QR,group,69,56.0487,-0.2161,-15.6157
+2026-05-01,2026,5,2026-05,FY2026-27,7_upi_qr,7,UPI QR,group,70,7797.6536,1.1593,16.4298
+2026-06-01,2026,6,2026-06,FY2026-27,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11534.5677,0.4436,3.3425
+2026-06-01,2026,6,2026-06,FY2026-27,1_1_credit_cards,1.1,Credit Cards,instrument,59,1215.9083,0.9437,9.5714
+2026-06-01,2026,6,2026-06,FY2026-27,1_2_debit_cards,1.2,Debit Cards,instrument,60,10318.6594,0.385,2.6548
+2026-06-01,2026,6,2026-06,FY2026-27,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,22460.8386,1.0764,66.1225
+2026-06-01,2026,6,2026-06,FY2026-27,2_1_wallets,2.1,Wallets,instrument,62,17803.4357,1.1786,105.0635
+2026-06-01,2026,6,2026-06,FY2026-27,2_2_cards,2.2,Cards,instrument,63,4657.4029,0.6873,-3.7474
+2026-06-01,2026,6,2026-06,FY2026-27,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.5229,-0.6419,0.5552
+2026-06-01,2026,6,2026-06,FY2026-27,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.164,-0.1615,0.5805
+2026-06-01,2026,6,2026-06,FY2026-27,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.3589,-3.4436,0.4028
+2026-06-01,2026,6,2026-06,FY2026-27,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,13.3673,-1.5837,-8.3941
+2026-06-01,2026,6,2026-06,FY2026-27,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,99.2213,-13.9099,-15.7925
+2026-06-01,2026,6,2026-06,FY2026-27,6_bharat_qr,6,Bharat QR,group,69,52.6582,-6.0492,-21.3945
+2026-06-01,2026,6,2026-06,FY2026-27,7_upi_qr,7,UPI QR,group,70,7925.7375,1.6426,16.8711
+2026-07-01,2026,7,2026-07,FY2026-27,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11561.68758,0.2351,2.813
+2026-07-01,2026,7,2026-07,FY2026-27,1_1_credit_cards,1.1,Credit Cards,instrument,59,1228.57894,1.0421,9.8829
+2026-07-01,2026,7,2026-07,FY2026-27,1_2_debit_cards,1.2,Debit Cards,instrument,60,10333.10864,0.14,2.0325
+2026-07-01,2026,7,2026-07,FY2026-27,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,22885.19168,1.8893,66.4798
+2026-07-01,2026,7,2026-07,FY2026-27,2_1_wallets,2.1,Wallets,instrument,62,18103.13716,1.6834,104.0904
+2026-07-01,2026,7,2026-07,FY2026-27,2_2_cards,2.2,Cards,instrument,63,4782.05452,2.6764,-1.9341
+2026-07-01,2026,7,2026-07,FY2026-27,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.52508,0.0864,1.2807
+2026-07-01,2026,7,2026-07,FY2026-27,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.16554,0.0712,1.4837
+2026-07-01,2026,7,2026-07,FY2026-27,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35954,0.1783,0.0752
+2026-07-01,2026,7,2026-07,FY2026-27,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,13.28246,-0.6347,-9.4379
+2026-07-01,2026,7,2026-07,FY2026-27,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,100.27614,1.0631,-15.8269
+2026-07-01,2026,7,2026-07,FY2026-27,6_bharat_qr,6,Bharat QR,group,69,52.69442,0.0688,-20.6571
+2026-07-01,2026,7,2026-07,FY2026-27,7_upi_qr,7,UPI QR,group,70,8030.4759,1.3215,16.7168
+2026-08-01,2026,8,2026-08,FY2026-27,1_number_of_cards_1_1_to_1_2,1,Number of Cards (1.1 to 1.2),group,58,11608.323989,0.4034,2.6796
+2026-08-01,2026,8,2026-08,FY2026-27,1_1_credit_cards,1.1,Credit Cards,instrument,59,1240.03836,0.9327,10.23
+2026-08-01,2026,8,2026-08,FY2026-27,1_2_debit_cards,1.2,Debit Cards,instrument,60,10368.285629,0.3404,1.8453
+2026-08-01,2026,8,2026-08,FY2026-27,2_number_of_ppis_2_1_to_2_2,2,Number of PPIs (2.1 to 2.2),group,61,23320.34939,1.9015,59.9022
+2026-08-01,2026,8,2026-08,FY2026-27,2_1_wallets,2.1,Wallets,instrument,62,18389.25733,1.5805,89.7329
+2026-08-01,2026,8,2026-08,FY2026-27,2_2_cards,2.2,Cards,instrument,63,4931.09206,3.1166,0.8001
+2026-08-01,2026,8,2026-08,FY2026-27,3_number_of_atms_3_1_to_3_2,3,Number of ATMs (3.1 to 3.2),group,64,2.526,0.0364,1.6017
+2026-08-01,2026,8,2026-08,FY2026-27,3_1_bank_owned_atms,3.1,Bank owned ATMs,instrument,65,2.16763,0.0965,2.0489
+2026-08-01,2026,8,2026-08,FY2026-27,3_2_white_label_atms,3.2,White Label ATMs,instrument,66,0.35837,-0.3254,-1.0219
+2026-08-01,2026,8,2026-08,FY2026-27,4_number_of_micro_atms,4,Number of Micro ATMs,group,67,13.25933,-0.1741,-9.8876
+2026-08-01,2026,8,2026-08,FY2026-27,5_number_of_pos_terminals,5,Number of PoS Terminals,group,68,102.0764,1.7953,-14.6847
+2026-08-01,2026,8,2026-08,FY2026-27,6_bharat_qr,6,Bharat QR,group,69,53.30222,1.1534,-18.9083
+2026-08-01,2026,8,2026-08,FY2026-27,7_upi_qr,7,UPI QR,group,70,8130.3247,1.2434,16.5225
